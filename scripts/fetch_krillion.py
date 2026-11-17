@@ -222,4 +222,4 @@ if __name__ == "__main__":
         for a in p["answers"]:
             counts[a["tier"]] += 1
         print(f"{p['id']}: total={len(p['answers'])} -> {dict(counts)}")
-    print(f"Saved gameId={game_data['gameId']} to latest.json and {daily_path}")
+    print(f"Saved gameId={game_data['dayNumber']} to latest.json and {daily_path}")
