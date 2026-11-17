@@ -1,0 +1,8533 @@
+{
+  "gameId": 1,
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a color.",
+      "answers": [
+        {
+          "answer": "White",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Black",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Red",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Gold",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Blue",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Blue Green",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Green",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sea Green",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Brown",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Spring Green",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Silver",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sky Blue",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Forest Green",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Green Yellow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yellow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yellow Green",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Orange",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Red Orange",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yellow Orange",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blue Bell",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pacific Blue",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Navy Blue",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gray",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shadow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Desert Sand",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Radical Red",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Purple Heart",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Royal Purple",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Midnight Blue",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cotton Candy",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Copper",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brick Red",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Outer Space",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tropical Rain Forest",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Caribbean Green",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jungle Green",
+          "tier": "rare"
+        },
+        {
+          "answer": "Laser Lemon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pine Green",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shocking Pink",
+          "tier": "rare"
+        },
+        {
+          "answer": "Olive Green",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sunset Orange",
+          "tier": "rare"
+        },
+        {
+          "answer": "Burnt Orange",
+          "tier": "rare"
+        },
+        {
+          "answer": "Salmon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Antique Brass",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electric Lime",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blue Violet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red Violet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Violet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Violet Red",
+          "tier": "rare"
+        },
+        {
+          "answer": "Outrageous Orange",
+          "tier": "rare"
+        },
+        {
+          "answer": "Peach",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vivid Violet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wild Strawberry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scarlet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neon Carrot",
+          "tier": "rare"
+        },
+        {
+          "answer": "Beaver",
+          "tier": "rare"
+        },
+        {
+          "answer": "Granny Smith Apple",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mountain Meadow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mango Tango",
+          "tier": "rare"
+        },
+        {
+          "answer": "Plum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Almond",
+          "tier": "rare"
+        },
+        {
+          "answer": "Denim",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chestnut",
+          "tier": "rare"
+        },
+        {
+          "answer": "Banana Mania",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canary",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lavender",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cadet Blue",
+          "tier": "rare"
+        },
+        {
+          "answer": "Maroon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wild Watermelon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Turquoise Blue",
+          "tier": "rare"
+        },
+        {
+          "answer": "Melon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indigo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orchid",
+          "tier": "rare"
+        },
+        {
+          "answer": "Piggy Pink",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mahogany",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Asparagus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bittersweet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tickle Me Pink",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Macaroni and Cheese",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pink Flamingo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hot Magenta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Magenta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eggplant",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Apricot",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Burnt Sienna",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Raw Sienna",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wild Blue Yonder",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Atomic Tangerine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vivid Tangerine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dandelion",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shamrock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Robin's Egg Blue",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sepia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Manatee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Carnation Pink",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fuchsia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wisteria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tumbleweed",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aquamarine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Purple Mountain's Majesty",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Screamin' Green",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Periwinkle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Razzle Dazzle Rose",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cerulean",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Purple Pizzazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Goldenrod",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cornflower",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cerise",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pink Sherbert",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Razzmatazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Timberwolf",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Inchworm",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fuzzy Wuzzy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jazzberry Jam",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mauvelous",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sunglow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Unmellow Yellow",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a clothing item.",
+      "answers": [
+        {
+          "answer": "Top",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Baby grow",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Dress",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Suit",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Shoes",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Shirt",
+          "tier": "plankton"
+        },
+        {
+          "answer": "T-shirt",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hat",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Cap",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tie",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Pants",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belt",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Coat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Boots",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dinner jacket",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jacket",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bow tie",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swimming costume",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jeans",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shorts",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swimming shorts",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gloves",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Socks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Skirt",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Underwear",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zip",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bra",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sweater",
+          "tier": "rare"
+        },
+        {
+          "answer": "Polo shirt",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ball gown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dressing gown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vest",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vest underwear",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sunglasses",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trainers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bikini",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jumper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trousers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scarf",
+          "tier": "rare"
+        },
+        {
+          "answer": "Waterproof",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lingerie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Robe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stockings",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sandals",
+          "tier": "rare"
+        },
+        {
+          "answer": "Swimming trunks",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boxers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blouse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jogging suit",
+          "tier": "rare"
+        },
+        {
+          "answer": "Slippers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fleece",
+          "tier": "rare"
+        },
+        {
+          "answer": "Briefs",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tights",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blazer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cardigan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sweatshirt",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shawl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thong",
+          "tier": "rare"
+        },
+        {
+          "answer": "Corset",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Swimwear",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pyjamas",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Knickers",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Underpants",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slacks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kilt",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Poncho",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tracksuit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Raincoat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Waistcoat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cufflinks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nightgown",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Romper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cravat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hoody",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Undershirt",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sarong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dungarees",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kurta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chemise",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Catsuit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nightwear",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camisole",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cargos",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kaftan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pashmina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Underclothes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cummerbund",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tankini",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tailcoat",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Shellsuit",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a dinosaur.",
+      "answers": [
+        {
+          "answer": "Fish",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Birds",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fossil",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Turtle",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Dinosaur",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Crocodile",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mammal",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Drinker",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tyrannosaurus",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Triceratops",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Velociraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mollusc",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Stegosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spinosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Archaeopteryx",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pterosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Diplodocus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Theropod",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Allosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brachiosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ichthyosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cetacea",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Iguanodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dilophosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Plesiosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Apatosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Deinonychus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hexing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Troodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Microraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Argentinosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Edmontosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ankylosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Oviraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Giganotosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bolong",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Banji",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Carcharodontosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ingenia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Utahraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Baryonyx",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Carnotaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Albertosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Megalosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pachyrhinosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gorgosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Daspletosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Parasaurolophus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Protoceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Carnosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gallimimus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Deinocheirus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Khaan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Synapsid",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dinosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Coelophysis",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Majungasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pliosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kangnasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lophostropheus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spinophorosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Epachthosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Coelurosauria",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lycorhinus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Adasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Draconyx",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lagerpeton",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Qiaowanlong",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rhynchosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ningyuansaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Palaeolimnornis",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Anabisetia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Talarurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sphenodontia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tianyulong",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aepisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Neuquenraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Galesaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pachysuchus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Auroraceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hecatasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Barapasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Asiatosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Daanosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Luoyanggia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Eobrontosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wellnhoferia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zuolong",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tenchisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Centrosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Falcarius",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ojoraptorsaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lufengocephalus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vulcanodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shunosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Empaterias",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Issasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jiangxisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Laplatasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aublysodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Embasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blikanasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bonapartenykus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Asiamericana",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Arizonasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cryptoraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Morosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mapusaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Buitreraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gravitholus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vitakrisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nurosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cetiosauriscus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kukufeldia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Propanoplosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Suchoprion",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Umarsaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Likhoelesaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dasygnathoides",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dubreuillosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shenzhouraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Atrociraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Amurosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Latirhinus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Albisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zupaysaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Venenosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Syrmosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Arkharavia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yueosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tianchungosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dyslocosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sinraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Owenodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pelycosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Duriavenator",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Haplocheirus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Epidendrosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nyasasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tawasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lisboasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ahshislepelta",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Magnirostris",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Psittacosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Orodromeus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ostafrikasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nemegtomaia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dracorex",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ovoraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Amazonsaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Leyesaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dollodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cryptosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Coahuilaceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Variraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Panamericansaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nodocephalosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nasutoceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Prosaurolophus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jingshanosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Teleocrater",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tribelesodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mochlodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Eohadrosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Comanchesaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Limnornis",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gigantspinosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Oxalaia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wuerhosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mtapaiasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Longisquama",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Velocisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aorun",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sinopliosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gigantosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sphenospondylus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dinotyrannus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rhabdodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kritosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lamplughsaura",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Notohypsilophodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tsagantegia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brontoraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Argyrosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lambeosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Heterosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tazoudasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Valdoraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Microhadrosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pycnonemosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Manidens",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hulsanpes",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Losillasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Polacanthoides",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lanzhousaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Walgettosuchus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sauroniops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Magulodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pneumatoraptor",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Altispinax",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Alnashetri",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hoplitosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rahiolisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Luanpingosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Abrosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Palaeosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Iguanoides",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Abydosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Riodevasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Stormbergia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bihariosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yuanmousaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sphenosuchus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dashanpusaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Crocodilia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Enigmosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Montanoceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Frenguellisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Segnosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kryptops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Labocania",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sinocalliopteryx",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dromiceiomimus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Isisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Archaeornithoides",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Stephanosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sinornithoides",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Incisivosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ornitholestes",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Plateosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shidaisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Platyceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Agnosphitys",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Changdusaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nothosaur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Orthogoniosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Titanoceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dysganus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lamaceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Helioceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nanyangosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cryptodraco",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chasmosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rileyasuchus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aeolosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yizhousaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Echinodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Omnivoropteryx",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lengosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Megadactylus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mamenchisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Notoceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pachysaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tianzhenosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zhuchengceratops",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tyreophorus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nedcolbertia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shixinggia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jeholosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ornithosuchus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Veterupristisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rayososaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Velafrons",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lapparentosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Seismosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tsuchikurasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Styracosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gasparinisaura",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Xiaotingia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dromaeosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Scansoriopteryx",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Eurolimnornis",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Proterosuchid",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nipponosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vitaridrinda",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mantellodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sphaerotholus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shuosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Koutalisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cardiodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yixianosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jurassosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jiutaisaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gryphognathus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Archaeornithomimus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Griphornis",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Szechuanosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pneumatoarthrus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Basutodon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aletopelta",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tendaguria",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Riojasaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Creosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Harpymimus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Huaxiagnathus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Beipiaosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Teratophoneus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cedarosaurus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Omosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wyleyia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aachenosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Atlantosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bilbeyhallorum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Balochisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ouranosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fukuititan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sarcolestes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alocodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amphisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lametasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Raptorex",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Doratodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ankistrodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chuanjiesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Albertonykus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Efraasia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alaskacephale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Torilion",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rapator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sauroplites",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thecocoelurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lirainosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xixiasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Conchoraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paralititan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arcusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Becklespinax",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thecodontosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Taveirosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Daemonosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Suuwassea",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nouerosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Marshosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xuanhuasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Algoasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Capitalsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xenoposeidon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cryolophosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gobipteryx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stereosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nemegtia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Proyandusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thyreophora",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xiaosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tatankaceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hanwulosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gryphoceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Linheraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ornithomimoides",
+          "tier": "rare"
+        },
+        {
+          "answer": "Edmontonia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aerosteon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ninghsiasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Prenoceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vagaceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinucerasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hongshanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hexinlusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Moshisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alashansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Berberosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elaltitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Marisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rhoetosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tatankacephalus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bienosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dracopelta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chiayusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pseudosuchia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sarcosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shuvuuia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Unaysaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amtosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nqwebasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Claorhynchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Prolacertiform",
+          "tier": "rare"
+        },
+        {
+          "answer": "Honghesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ugrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aegyptosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clasmodosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hypacrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caenagnathus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Velocipes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lessemsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Agrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paronychodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Maleevosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Leipsanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clevelanotyrannus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dynamosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Megacervixosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Protohadros",
+          "tier": "rare"
+        },
+        {
+          "answer": "Polyonax",
+          "tier": "rare"
+        },
+        {
+          "answer": "Daxiatitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spondylosoma",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ichthyovenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Demandasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dimodosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Torvosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gwyneddosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cystosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Irritator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zanclodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rugops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ignavusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chinshakiangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zhejiangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stenotholus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Iuticosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tyrannotitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xixianykus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Palaeopteryx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vitakridrinda",
+          "tier": "rare"
+        },
+        {
+          "answer": "Planicoxa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jianchangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinovenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ohmdenosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Protecovasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eoceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Laevisuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cumnoria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ratchasimasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elaphrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dracovenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abelisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sangonghesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Austrocheirus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Calamosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vectensia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Termatosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pleuropeltus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chubutisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Macrophalangia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Futalongkosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acristavus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wintonotitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Diclonius",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tonganosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tarascosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amphicoelicaudia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Achillesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Delapparentia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sulaimansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Koparion",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brachytrachelopan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bakesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rahona",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oryctodromeus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Campylodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stygivenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wangonisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Genyodectes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acrocanthosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Danubiosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Deltadromeus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rileya",
+          "tier": "rare"
+        },
+        {
+          "answer": "Borealosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rioarribasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gondwanatitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lophorhothon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Talenkauen",
+          "tier": "rare"
+        },
+        {
+          "answer": "Diracodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nanshiungosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bradycneme",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ferganocephale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cheneosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wulagasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tanystrosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Comahuesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Actiosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jiangjunmiaosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xinjiangovenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gadolosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clarencea",
+          "tier": "rare"
+        },
+        {
+          "answer": "Avemetatarsalia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dakotadon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Diapsid",
+          "tier": "rare"
+        },
+        {
+          "answer": "Albinykus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pectinodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Protorosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ginnareemimus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Doryphorosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dalianraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Megapnosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scelidosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Metriorhynchid",
+          "tier": "rare"
+        },
+        {
+          "answer": "Piatnitzkysaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Haplocanthosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Phytosaur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Manospondylus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gansutitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neovenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brasileosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Judiceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Khetranisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Proceratosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zatomus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ceratosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Unescoceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Telmatosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Segisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pachyspondylus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caseosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ultrasauros",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dongbeititan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Galvesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crocodylomorph",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ephoenosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crosbysaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Coelosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Unenlagia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Strenusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Concavenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fukuiraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Camarasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Iliosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Huayangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kileskus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clepsysaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Richardoestesia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sphenosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scutellosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garudimimus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nanningosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sonorasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pradhania",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Andesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Genusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Huxleysaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elopteryx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alectrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tecovasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Parksosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paranthodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Airakoraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jobaria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ichabodcraniosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Muyelensaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sacisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Deinodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Patricosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Maleevus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tylocephale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sugiyamasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nodosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aliwalia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kerberosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kazaklambia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eolambia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dongyangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Citipati",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euskelosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trigonosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Epidexipteryx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dolichosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Walkeria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Labrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Condorraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tichosteus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Uberabatitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Magnosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Janenschia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anasazisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Macrogryphosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Erliansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ornithotarsus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bayosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Santanaraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zhuchengtyrannus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lukousaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sauroposeidon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ampelosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pampadromaeus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Erectopus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glyptodontopelta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Leaellynasaura",
+          "tier": "rare"
+        },
+        {
+          "answer": "Magyarosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Postosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Szechuanoraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yubasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brachyrophus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cionodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sellacoxa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elachistosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shuvosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sauraechmodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Microdontosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brachylophosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Theropoda",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tapinocephalus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Changchunsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cladeiodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pareiasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Heishansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aristosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Protiguanodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brohisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eupodosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Datousaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Giraffatitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jaklapallisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tugulusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Compsognathus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ilokelesia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Revueltoraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tuojiangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Huaxiasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Palaeocursornis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Onychosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ceratonykus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amargatitanis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Albalophosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Byronosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cryptovolans",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shenzhousaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rapetosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Altirhinus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sanjuansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dysalotosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Liliensternus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Beelemodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xuanhuaceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Protrachodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caenagnathasia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Willinakaqe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Atacamatitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lourinhanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yaverlandia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ligomasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Suchomimus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brasilotitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jenghizkhan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aggiosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elrhazosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yingshanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Australovenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ichthyornis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Valdosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yuanmouraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Prolacertiformes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tarchia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hesperosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Azendohsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eucentrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scipionyx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Petrobrasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hudiesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinornithosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shuangmiaosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tianchisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Araucanoraptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Poposaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pararhabdodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Osmakasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Siamotyrannus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Galveosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yangchuanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Microcephale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mirischia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Probactrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yunxiansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Enantiornithine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cedrorestes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chaoyangsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Loricatosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stygimoloch",
+          "tier": "rare"
+        },
+        {
+          "answer": "Venaticosuchus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anchiornis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ischisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bactrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Quilmesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fukuisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Griphosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Graciliceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oligosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baotianmansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eocursor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Macelognathus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arctosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Streptospondylus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Texasetes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dianchungosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nomingia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinornithomimus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hierosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abdallahsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jaxartosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sanchusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tarbosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinocoelurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Timimus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Herrerasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tsaagan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anthracothere",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yezosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chihuahuasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cathartesaura",
+          "tier": "rare"
+        },
+        {
+          "answer": "Domeykosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Loncosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Archaeoceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Udanoceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gojirasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dongyangopelta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Duriatitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chondrosteus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arkanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lusotitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Diceratus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nuoersaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wadhurstia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sauropelta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ultrasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kotasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Urbacodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zhongyuansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tanystropheus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mifunesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pegomastax",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gobititan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lusitanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caulodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tataouinea",
+          "tier": "rare"
+        },
+        {
+          "answer": "Longosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pareiasaur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Leshansaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Machairasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Colossosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arstanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wakinosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lanasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dryosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sterrholophus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dachungosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chialingosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jiangjunosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Klamelisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rauisuchia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caudipteryx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jinfengopteryx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Leptoceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinotyrannus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Poekilopleuron",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gobisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Angaturama",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aetonyx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Angolatitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tanius",
+          "tier": "rare"
+        },
+        {
+          "answer": "Therizinosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tastavinsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lancangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dinheirosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brachypodosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gobiceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fruitadens",
+          "tier": "rare"
+        },
+        {
+          "answer": "Monkonosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spinostropheus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cristatusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rebbachisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Monolophosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alioramus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hypsirophus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Olorotitan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euoplocephalus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Juravenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euhelopus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Epanterias",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lancanjiangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xianshanosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ekrixinatosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Achillobator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hesperonychus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pachysauriscus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ruyangosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gongbusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Teratosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ruehleia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yaleosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canardia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brachyceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pantydraco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Afrovenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mendozasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pedopenna",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blasisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Astrodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mandschurosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Drusilasaura",
+          "tier": "rare"
+        },
+        {
+          "answer": "Libycosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eucamerotus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tonouchisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Didanodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Proplanicoxa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kentrurosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trinisaura",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fusuisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kentrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eocarcharia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Albertaceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rutellum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Saltasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Majungatholus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mussaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zigongosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euacanthus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Craspedodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Priodontognathus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rubeosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gyposaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pukyongosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Coelurosaur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Silvisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jixiangornis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pawpawsaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oohkotokia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hadrosauravus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shaochilong",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ponerosteus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ischyrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hadrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gryposaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spinops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Peloroplites",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dravidosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hagryphus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sphenosuchia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ligabueino",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mymoorapelta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tatisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trimucrodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cathetosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Teinurosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Antetonitrus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rajasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fabrosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Angloposeidon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Levnesovia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mongolosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Asiaceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Avipes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Turiasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eucnemesaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Otogosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Martharaptor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tsintaosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hypsilophodon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gigantoscelus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Palaeosauriscus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hironosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paludititan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anatosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kaatedocus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Linhevenator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pellegrinisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sanpasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lapampasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Inosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eomamenchisaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Liassaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jinzhousaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Equijubus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dryptosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nopcsaspondylus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Changtusaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tapuiasaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Diabloceratops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dakosaurus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chassternbergia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Limaysaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Huaxiaosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Minotaurasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Uteodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Micropachycephalosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Avisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Siamodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ornithomerus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eodromaeus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Turanoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nambalia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cruxicheiros",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Riojasuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stokesosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Amygdalodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Linhenykus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Heterodontosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dromicosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bahariasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xiongguanlong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jeyawati",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Polyodontosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Morinosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Campylodoniscus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aralosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pentaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Squalodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saurornitholestes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yandusaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bruhathkayosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kinnareemimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tornieria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scaphonyx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Titanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Volkheimeria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brontomerus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rhopalodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Huanghetitan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ngexisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jiangshanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Archosaur",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sciurumimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Histriasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eoraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Phaedrolosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Betasuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bagaraatan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Protognathus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Marmarospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darwinsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Apatodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eotyrannus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Struthiomimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pelecanimimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gideonmantellia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Appalachiosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Acracanthus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Machimosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Razanandrongobe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Uintasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Magnapaulia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moabosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ojoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yaxartosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Macroscelosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aniksosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Guanlong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Futabasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Proceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xuwulong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ricardoestesia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Symphyrophus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pleurocoelus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Damalasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Naashoibitosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Panphagia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Graciliraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ornithoides",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Futalognkosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pachycephalosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Astrophocaudia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gilmoreosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Diamantinasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eucercosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gavinosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suchosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eugongbusaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camelotia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shanxia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antarctopelta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Traukutitan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saurornithoides",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hippodraco",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nteregosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sauropodus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coelurosauravus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stereocephalus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Adeopapposaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ctenosauriscid",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paraiguanodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eosinopteryx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Archaeornis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bambiraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Isanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stegosaurides",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Avaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gannansaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paluxysaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Denversaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bathygnathus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Katsuyamasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barsboldia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mojoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eucoelophysis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Calamospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fusinasus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Agathaumas",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eustreptospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Macrurosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Atlascopcosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Claosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Avicephala",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tochisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Protognathosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kakuru",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neuquensaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chilantaisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chindesaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Parvicursor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Phuwiangosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saltriosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Edmarka",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chingkankousaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bicentenaria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kemkemia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Microceratus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chaoyangosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Atlasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eotriceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neimongosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Unicerosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Qinlingosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Laosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Craterosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dacentrurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Geminiraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Erlikosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bonitasaura",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Arrhinoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Triassolestes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hisanohamasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oplosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Supersaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Achelousaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rinconsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Serendipaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eoabelisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dystrophaeus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thotobolosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Blancocerosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cetiosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Roccosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chondrosteosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fulengia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mohammadisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Halticosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lancangjiangosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Teyuwasu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breviceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rhodanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Metriacanthosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Overosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Newtonsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gracilisuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pseudolagosuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sellosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ajkaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lufengosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yamaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bagaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Khateranisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Batyrosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cinizasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tanycolagreus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bainoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Silesaurid",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Byranjaffia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shamosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Austrosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Amtocephale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cylindricodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Huabeisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Regnosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Callovosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Heptasteornis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gryponyx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tylosteus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gargoyleosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kundurosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mononykus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Secernosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Puertasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bellusaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Archosauriform",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Qiupalong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Alamosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dystylosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tethyshadros",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Selimanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Albertadromeus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Karongasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kaijiangosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Microvenator",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Amphicoelias",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eshanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Salimosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Avimimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Elvisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bonatitan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Procheneosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tetragonosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oshanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jurapteryx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paleosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dinosauromorph",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Plateosauravus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hungarosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chromogisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anoplosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Amargasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Merosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Alwalkeria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Macrodontophion",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shanshanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gongxianosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vectisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kitadanisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Agustinia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sulaimanisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thescelosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zephyrosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Arenysaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Patagosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Laornis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Protoavis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tenantosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yinlong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bravoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saurophaganax",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coeluroides",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Seitaad",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Trialestes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Glishades",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cedarpelta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rinchenia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lesothosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dromaeosaur",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nuoerosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hallopus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yanornis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tomodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Juratyrant",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shanyangosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Deuterosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coelurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zizhongosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hypselospinus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Austroraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brachytaenius",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Orcomimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Acrotholus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chirostenotes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Emausaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nigersaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Animantarx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Luanchuanraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zuniceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wannanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Abrictosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Heyuannia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Struthiosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yunnanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Noasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tyrannosaurid",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yibinosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thespesius",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Priconodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Marasuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anchisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Iguanacolossus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Patagonykus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Haplocanthus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Corythosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Limusaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coloradisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Similicaudipteryx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Leptospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aviatyrannis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hortalotarsus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tienshanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pamparaptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Peishansaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Succinodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rachitrema",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dachongosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Therapsida",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saurolophus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pekinosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Skorpiovenator",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Microsaurops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ammosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antarctosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Liaoningosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nothronychus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Spinosuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Iguanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anchiceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Orkoraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Microcoelus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xuanhanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Geranosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Goyocephale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ankylosauria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dahalokely",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Daptosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Loricosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Australodocus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pterospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gigantoraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hylaeosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Caudocoelus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Opisthocoelicaudia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rhadinosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ligabuesaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aragosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rocasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Parrosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sahaliyania",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Agilisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Orthomerus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Penelopognathus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Liaoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dyoplosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stenonychosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Walkersaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Narambuenatitan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pitekunsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camarillasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Procolophonid",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Epichirostenotes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Beishanlong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gasosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coronosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zapalasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sauraechinodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Glacialisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Therapsid",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gravisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lewisuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jainosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Centemodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Arkansaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Einiosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Palaeoscincus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cerasinops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Microceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pteropelyx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sigilmassasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Staurikosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pyroraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ornithodesmus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Asylosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anodontosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Siluosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Carnosauria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Qantassaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ornithomimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dinodocus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chuxiongosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anserimimus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camptonotus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lagosuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anatotitan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dryptosauroides",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Silesaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pachysaurops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saichania",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Procerosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lucianosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Koreasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lurdusaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Piveteausaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jeholornis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Angulomastacator",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hoplosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saltopus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shanag",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Homalocephale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Torosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fenestrosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jubbulpuria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mtotosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nemegtosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maiasaura",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yutyrannus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ozraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lariosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bugenasaura",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ornatotholus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aardonyx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Herbstosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tianyuraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kosmoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Muttaburrasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kagasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Atsinganosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Massospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Utahceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nanotyrannus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Qingxiusaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Avalonianus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Erketu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fulgurotherium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kayentavenator",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Protarchaeopteryx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chungkingosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Krzyzanowskisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yimenosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aurornis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ganzhousaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pinacosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Archosauromorph",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Niobrarasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Melanorosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Baurutitan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Elmisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Euronychodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tehuelchesaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sinusonasus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Omeisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Agujaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aucasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wulatelong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stegopelta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Europasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Alxasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stegosauroides",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tangvayosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Unquillosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xixiposaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ornithopsis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crataeomus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Madsenius",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Diplotomodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kulceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Adamantisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nyororosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Monoclonius",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kuszholia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jintasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camptosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Masiakasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Parhabdodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Prodeinodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saurophagus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Alvarezsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mantellisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aristosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suzhousaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Limnosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dromaeosauroides",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Augustia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Spinosaurid",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Othnielia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thecospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Medusaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zalmoxes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Koreaceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Syngonosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dicraeosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xenoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scleromochlus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chuandongocoelurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Itemirus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Phyllodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Megaraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Philovenator",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ferganasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pelorosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nebulasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barilium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nedoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Acanthopholis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nuthetes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Panoplosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Quaesitosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Archaeoraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Charonosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eureodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hanssuesia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Guaibasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camposaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hylosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zapsalis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bistahieversor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Erlicosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Procompsognathus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hypselosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Prenocephale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Malarguesaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tenontosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kittysaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Palaeoctonus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Trachodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wyomingraptor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Huehuecanauhtlus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Theiophytalia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nectosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scolosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pisanosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kunmingosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Liubangosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Malawisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pakisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Leonerasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Texacephale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shantungosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zhuchengosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gripposaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Polacanthus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xenotarsosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dinosauriform",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hypsibema",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Podokesaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sonidosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Colepiocephale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kelmayisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crichtonsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stegoceras",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Borogovia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lourinhasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Picrodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mononychus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bothriospondylus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Siamosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Technosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neosodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eolosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Archaeovolans",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chebsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Compsosuchus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Othnielosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Proiguanodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rahonavis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nanotyrannosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bissektipelta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Revueltosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lexovisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antrodemus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hikanodon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barrosasaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sinoceratops",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Megadontosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sinosauropteryx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Heilongjiangosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maxakalisaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jensenosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dandakosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Therosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sarahsaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hypselorhachis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Archaeodontosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gresslyosaurus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stenopelix",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a flower.",
+      "answers": [
+        {
+          "answer": "Forget me not",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Bird of paradise",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Roses",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Lily",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Water lily",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Holly",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Heather",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Violet",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sage",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Daisy",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Iris",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lotus flower",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Orange blossom",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Peach blossom",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jasmine",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rosemary",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lavender",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Clover",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sunflower",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Orchid",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Thistle",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tulip",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lilac",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thyme",
+          "tier": "rare"
+        },
+        {
+          "answer": "Azalea",
+          "tier": "rare"
+        },
+        {
+          "answer": "Columbine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Primrose",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dahlia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aster",
+          "tier": "rare"
+        },
+        {
+          "answer": "Buttercup",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hibiscus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Marigold",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hyacinth",
+          "tier": "rare"
+        },
+        {
+          "answer": "Carnation",
+          "tier": "rare"
+        },
+        {
+          "answer": "Snapdragon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mimosa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Narcissus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Peony",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anemone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Daffodil",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bluebell",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rhododendron",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Petunia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crocus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Edelweiss",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Amaranth",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bergamot",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bellflower",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camellias",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Babys breath",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gladiolus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tansy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Amaryllis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Begonia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Marjoram",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Foxglove",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zinnia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ladys slipper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Delphinium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Freesia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gerbera daisy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bottlebrush",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Chrysantemum",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a mythical creature or monster.",
+      "answers": [
+        {
+          "answer": "Giant",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Angel",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Ghost",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Dragon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Phoenix",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Witch",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fairy",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Demon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Vampire",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Frost giant",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Zombie",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dwarf",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Troll",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Elf",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mummy",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Unicorn",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mermaid",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kappa",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Siren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Genie",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Elemental",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Werewolf",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Goblin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hydra",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Roc",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spectre",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Imp",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wight",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brownie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gnome",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sprite",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pegasus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pixie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cyclops",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ogre",
+          "tier": "rare"
+        },
+        {
+          "answer": "Valkyrie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wraith",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orc",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yeti",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nix",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sphinx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hag",
+          "tier": "rare"
+        },
+        {
+          "answer": "Naga",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ghoul",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nymph",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thunderbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chimera",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kraken",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oni",
+          "tier": "rare"
+        },
+        {
+          "answer": "Centaur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Golem",
+          "tier": "rare"
+        },
+        {
+          "answer": "Minotaur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Leprechaun",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sasquatch",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gargoyle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gremlin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gorgon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Poltergeist",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Succubus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Incubus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lich",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Harpy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Djinn",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Satyr",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Faun",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Merman",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Griffon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hobgoblin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wyvern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Manticore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chupacabra",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bugbear",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wendigo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dryad",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Warg",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kobold",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sylph",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Selkie",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cockatrice",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hippogriff",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ghast",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Draugr",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lamassu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Homonculus",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a country.",
+      "answers": [
+        {
+          "answer": "United States Of America",
+          "tier": "plankton"
+        },
+        {
+          "answer": "China",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Australia",
+          "tier": "plankton"
+        },
+        {
+          "answer": "India",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Canada",
+          "tier": "plankton"
+        },
+        {
+          "answer": "France",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Russia",
+          "tier": "plankton"
+        },
+        {
+          "answer": "South Africa",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Germany",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Japan",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Israel",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mexico",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ireland",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Italy",
+          "tier": "schooler"
+        },
+        {
+          "answer": "North Korea",
+          "tier": "schooler"
+        },
+        {
+          "answer": "South Korea",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Iran",
+          "tier": "schooler"
+        },
+        {
+          "answer": "United Kingdom",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Central African Republic",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spain",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brazil",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Turkey",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pakistan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jordan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New Zealand",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Georgia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Egypt",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Iraq",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sweden",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Syria",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Singapore",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nigeria",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ukraine",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vietnam",
+          "tier": "schooler"
+        },
+        {
+          "answer": "The Philippines",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Greece",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Malaysia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "The Netherlands",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Indonesia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Marshall Islands",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Poland",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Afghanistan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Switzerland",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Argentina",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Thailand",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Norway",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cuba",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kenya",
+          "tier": "rare"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Palestinian State",
+          "tier": "rare"
+        },
+        {
+          "answer": "Portugal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Austria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chile",
+          "tier": "rare"
+        },
+        {
+          "answer": "Guinea",
+          "tier": "rare"
+        },
+        {
+          "answer": "Denmark",
+          "tier": "rare"
+        },
+        {
+          "answer": "Taiwan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lebanon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bangladesh",
+          "tier": "rare"
+        },
+        {
+          "answer": "Colombia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Czech Republic",
+          "tier": "rare"
+        },
+        {
+          "answer": "Finland",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chad",
+          "tier": "rare"
+        },
+        {
+          "answer": "Venezuela",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jamaica",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hungary",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bulgaria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ghana",
+          "tier": "rare"
+        },
+        {
+          "answer": "South Sudan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sudan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Peru",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sri Lanka",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yemen",
+          "tier": "rare"
+        },
+        {
+          "answer": "Panama",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nepal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Libya",
+          "tier": "rare"
+        },
+        {
+          "answer": "Myanmar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Solomon Islands",
+          "tier": "rare"
+        },
+        {
+          "answer": "Morocco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Iceland",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vatican City",
+          "tier": "rare"
+        },
+        {
+          "answer": "Qatar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Romania",
+          "tier": "rare"
+        },
+        {
+          "answer": "Uganda",
+          "tier": "rare"
+        },
+        {
+          "answer": "Congo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Costa Rica",
+          "tier": "rare"
+        },
+        {
+          "answer": "Democratic Republic of the Congo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Croatia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ethiopia",
+          "tier": "rare"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zimbabwe",
+          "tier": "rare"
+        },
+        {
+          "answer": "El Salvador",
+          "tier": "rare"
+        },
+        {
+          "answer": "Haiti",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cambodia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cyprus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Serbia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Uruguay",
+          "tier": "rare"
+        },
+        {
+          "answer": "Somalia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kuwait",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dominican Republic",
+          "tier": "rare"
+        },
+        {
+          "answer": "Monaco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ecuador",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sierra Leone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Algeria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Guatemala",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fiji",
+          "tier": "rare"
+        },
+        {
+          "answer": "Honduras",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bahrain",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kazakhstan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Luxembourg",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tanzania",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tunisia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Armenia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Malta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bahamas",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bolivia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cameroon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mali",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rwanda",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barbados",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Liberia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lithuania",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Azerbaijan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Estonia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belarus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Niger",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Latvia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nicaragua",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kosovo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zambia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Papua New Guinea",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slovenia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slovakia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Western Sahara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Madagascar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Samoa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Senegal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "North Macedonia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oman",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Albania",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maldives",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Angola",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Laos",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mongolia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Malawi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cape Verde",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mozambique",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "East Timor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Guyana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Namibia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belize",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Botswana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paraguay",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "San Marino",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Uzbekistan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Equatorial Guinea",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mauritius",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brunei",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moldova",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Montenegro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kyrgyzstan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tajikistan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Burkina Faso",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tonga",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bhutan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eritrea",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Benin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gambia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Grenada",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Togo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Burundi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Turkmenistan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nauru",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dominica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gabon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Seychelles",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mauritania",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lesotho",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vanuatu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Djibouti",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Liechtenstein",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cote D'Ivoire",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Andorra",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Palau",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Guinea-Bissau",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suriname",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Micronesia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kiribati",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Comoros",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tuvalu",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Eswatini",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a beer style.",
+      "answers": [
+        {
+          "answer": "European-style dark",
+          "tier": "plankton"
+        },
+        {
+          "answer": "California common beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Field beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Session beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Smoke beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fruit beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Out of category",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Aged beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Experimental beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Extra special bitter",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Ordinary bitter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Special bitter or best bitter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wood- and barrel-aged beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wood- and barrel-aged dark beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style imperial porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brown porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Smoke porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Robust porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Non-alcoholic beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Specialty beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wood- and barrel-aged sour beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pumpkin beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian-style table beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian-style white",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Herb and spice beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Winter warmer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style brown ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style india black ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style india pale ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style pale ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style sour ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style strong pale ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style wheat wine ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian-style blonde ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian-style dark strong ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian-style pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian-style pale strong ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classic english-style pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style brown ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style dark mild ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style india pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style pale mild ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style summer ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fresh hop ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Golden or blonde ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Imperial or double red ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "International-style pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Irish-style red ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Old ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scotch ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scottish-style export ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scottish-style heavy ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scottish-style light ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Strong ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gluten-free beer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Japanese sake-yeast beer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baltic-style porter",
+          "tier": "rare"
+        },
+        {
+          "answer": "German-style rye ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style barley wine ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "British-style barley wine ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style imperial stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "British-style imperial stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classic irish-style dry stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Foreign-style stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sweet stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Coffee-flavored beer",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style malt liquor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oatmeal stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "American rye ale or lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style amber lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style dark lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style ice lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style light lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style premium lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark american wheat ale or lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dry lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "European low-alcohol lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fruit wheat ale or lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Latin american-style light lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Other strong ale or lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Specialty honey lager or ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tropical-style light lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vienna-style lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Other belgian-style ales",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Australasian-style light lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Australasian-style pale ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Traditional german-style bock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style oktoberfest",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Leipzig-style gose",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Specialty stouts",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Berliner-style weisse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style fruit lambic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style lambic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style tripel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "South german-style hefeweizen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style dubbel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style kolsch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bohemian-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "International-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dark american-belgo-style ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pale american-belgo-style ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style gueuze lambic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "French-style biere de garde",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "South german-style dunkel weizen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style doppelbock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style marzen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style marzen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style bock rauchbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style helles rauchbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style weiss rauchbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style quadrupel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style eisbock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style leichtes weizen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style schwarzbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kellerbier - ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kellerbier - lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Munchner-style helles",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "South german-style weizenbock",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    }
+  ]
+}

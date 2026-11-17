@@ -1,0 +1,441 @@
+{
+  "gameId": 9,
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a fruit that is technically a berry.",
+      "answers": [
+        {
+          "answer": "Banana",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tomato",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Grape",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blueberry",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pumpkin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Watermelon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Avocado",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kiwi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eggplant",
+          "aliases": [
+            "aubergine"
+          ],
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Persimmon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cucumber",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saskatoon berry",
+          "tier": "krillion",
+          "note": "A berry that tastes like almond and calls Canada home."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a musical instrument you blow into.",
+      "answers": [
+        {
+          "answer": "Trumpet",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Flute",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Saxophone",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Clarinet",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Trombone",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tuba",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kazoo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Harmonica",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oboe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Didgeridoo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bassoon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ocarina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sousaphone",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crumhorn",
+          "tier": "krillion",
+          "note": "Renaissance double reed, bent like a question mark."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a colour with a food in its name.",
+      "answers": [
+        {
+          "answer": "Orange",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Olive",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cherry",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lemon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lime",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Peach",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chocolate",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Grape",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pumpkin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Plum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Salmon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pistachio",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aubergine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Damson",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Persimmon",
+          "tier": "krillion",
+          "note": "A colour and a fruit, and both are orange."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a card game.",
+      "answers": [
+        {
+          "answer": "Poker",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Blackjack",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Solitaire",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bridge",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Uno",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rummy",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Go fish",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Snap",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euchre",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canasta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Whist",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cribbage",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Baccarat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Exploding Kittens",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Piquet",
+          "tier": "krillion",
+          "note": "Older than most countries, still dealt in France."
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a city with a metro system.",
+      "answers": [
+        {
+          "answer": "London",
+          "tier": "plankton"
+        },
+        {
+          "answer": "New York",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Paris",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tokyo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Moscow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Beijing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Delhi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mexico City",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cairo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lisbon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tashkent",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pyongyang",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Novosibirsk",
+          "tier": "krillion",
+          "note": "Siberia's metro, carved under the frost."
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a dog breed used for a job.",
+      "answers": [
+        {
+          "answer": "Border collie",
+          "tier": "plankton"
+        },
+        {
+          "answer": "German shepherd",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Labrador",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Husky",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bloodhound",
+          "tier": "schooler"
+        },
+        {
+          "answer": "St Bernard",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Newfoundland",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian Malinois",
+          "tier": "rare"
+        },
+        {
+          "answer": "Portuguese water dog",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tibetan mastiff",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Catahoula leopard dog",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kangal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lagotto Romagnolo",
+          "tier": "krillion",
+          "note": "The only breed bred to hunt truffles."
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name something you would find in a kitchen drawer.",
+      "answers": [
+        {
+          "answer": "Spoon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fork",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Knife",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Corkscrew",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Whisk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Can opener",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spatula",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Thermometer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Skewer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garlic press",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mandoline",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zester",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Melon baller",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cherry pitter",
+          "tier": "krillion",
+          "note": "Single-purpose, deeply loved, rarely used."
+        }
+      ]
+    }
+  ]
+}

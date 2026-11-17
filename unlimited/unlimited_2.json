@@ -1,0 +1,4365 @@
+{
+  "gameId": 2,
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a culinary herb or spice.",
+      "answers": [
+        {
+          "answer": "Bay leaf",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Indian Bay leaf",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Lemon grass",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Curry leaf",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mint",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sage",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Basil",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Holy Basil",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Thai Basil",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Rosemary",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Rue",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lavender",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hemp",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lemon myrtle",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Parsley",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lemon balm",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dill",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Angelica",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Thyme",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Savory",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Coriander leaf",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bolivian Coriander",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vietnamese Coriander",
+          "tier": "rare"
+        },
+        {
+          "answer": "Woodruff",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cilantro",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oregano",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chives",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garlic Chives",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sorrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cress",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tarragon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cicely",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lemon verbena",
+          "tier": "rare"
+        },
+        {
+          "answer": "Marjoram",
+          "tier": "rare"
+        },
+        {
+          "answer": "Borage",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hyssop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chervil",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lovage",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mugwort",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shiso",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Perilla",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hoja santa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sansho",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mitsuba",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boldo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Epazote",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Culantro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Houttuynia cordata",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jimbu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kinh gioi",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Limnophila aromatica",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a metal or alloy.",
+      "answers": [
+        {
+          "answer": "Lead",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Gold",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Silver",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Iron",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Copper",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tin",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mercury",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Platinum",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sodium",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Uranium",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Calcium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nickel",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aluminium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zinc",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Potassium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lithium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Titanium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Magnesium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cobalt",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Plutonium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Palladium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chromium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tungsten",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Manganese",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Beryllium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cadmium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Radium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Thorium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Iridium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Molybdenum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Barium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bismuth",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gallium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Strontium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vanadium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rhodium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Polonium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cesium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tantalum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zirconium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neodymium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Niobium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thallium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rubidium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cerium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ruthenium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yttrium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gadolinium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Technetium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lanthanum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Osmium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Americium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Europium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Samarium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hafnium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rhenium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Erbium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scandium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ytterbium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neptunium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Promethium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dysprosium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Curium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Terbium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Actinium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Californium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Praseodymium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Holmium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thulium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Protactinium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lutetium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Einsteinium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Francium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Berkelium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lawrencium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Seaborgium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fermium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mendelevium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bohrium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darmstadtium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubnium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hassium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Meitnerium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nobelium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Roentgenium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rutherfordium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ununbium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ununhexium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ununpentium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ununquadium",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Ununtrium",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a fabric or textile.",
+      "answers": [
+        {
+          "answer": "C change",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Stuff",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Felt",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Jersey",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Oxford",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Cotton",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Rep",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Duck",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sea silk",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Shot silk",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Silk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spider silk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Drill",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Carbon fiber",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Beta cloth",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cloth of gold",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bizarre silk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lawn",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Russell cord",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Canvas",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wool",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lace",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Velvet",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cedar bark",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pin stripes",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mesh",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Boiled wool",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Scarlet",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ottoman",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Irish linen",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Linen",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bedford cord",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Denim",
+          "tier": "schooler"
+        },
+        {
+          "answer": "E-textiles",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Char cloth",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Machine knitting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acrylic",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ballistic nylon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hemp",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nylon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wigan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Satin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Madras",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Polar fleece",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Plush",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gore-tex",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Paisley",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Harris tweed",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tweed",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Serge",
+          "tier": "rare"
+        },
+        {
+          "answer": "Flannel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vegetable flannel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ban-lon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cashmere",
+          "tier": "rare"
+        },
+        {
+          "answer": "Polyester",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vinyl coated polyester",
+          "tier": "rare"
+        },
+        {
+          "answer": "Conductive",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bunting",
+          "tier": "rare"
+        },
+        {
+          "answer": "Khaki drill",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chino",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dazzle",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rayon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Argyle",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stub-tex",
+          "tier": "rare"
+        },
+        {
+          "answer": "Donegal tweed",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tartan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spandex",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gauze",
+          "tier": "rare"
+        },
+        {
+          "answer": "Calico",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zephyr",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alpaca",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chiffon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jute",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kevlar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Burlap",
+          "tier": "rare"
+        },
+        {
+          "answer": "Twill",
+          "tier": "rare"
+        },
+        {
+          "answer": "Muslin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brocade",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tulle",
+          "tier": "rare"
+        },
+        {
+          "answer": "Angora",
+          "tier": "rare"
+        },
+        {
+          "answer": "Corduroy",
+          "tier": "rare"
+        },
+        {
+          "answer": "Grenfell cloth",
+          "tier": "rare"
+        },
+        {
+          "answer": "Georgette",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scrim",
+          "tier": "rare"
+        },
+        {
+          "answer": "Damask",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fishnet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Microfiber",
+          "tier": "rare"
+        },
+        {
+          "answer": "Velour",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mohair",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gingham",
+          "tier": "rare"
+        },
+        {
+          "answer": "Herringbone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Taffeta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Challis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Coir",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mackinaw",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sisal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tattersall",
+          "tier": "rare"
+        },
+        {
+          "answer": "Velveteen",
+          "tier": "rare"
+        },
+        {
+          "answer": "Olefin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cheesecloth",
+          "tier": "rare"
+        },
+        {
+          "answer": "Batiste",
+          "tier": "rare"
+        },
+        {
+          "answer": "Organza",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chenille",
+          "tier": "rare"
+        },
+        {
+          "answer": "Grenadine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chambray",
+          "tier": "rare"
+        },
+        {
+          "answer": "Houndstooth",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chintz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pashmina",
+          "tier": "rare"
+        },
+        {
+          "answer": "Saye",
+          "tier": "rare"
+        },
+        {
+          "answer": "Voile",
+          "tier": "rare"
+        },
+        {
+          "answer": "Linsey-woolsey",
+          "tier": "rare"
+        },
+        {
+          "answer": "Seersucker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Poplin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tais",
+          "tier": "rare"
+        },
+        {
+          "answer": "Toile",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sateen",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baize",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crape",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gabardine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Grosgrain",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kente cloth",
+          "tier": "rare"
+        },
+        {
+          "answer": "Moleskin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ninon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Buckram",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Charvet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saga nishiki",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dimity",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Broadcloth",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Loden",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ramie",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cordura",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ripstop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fustian",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Organdy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oilskin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Percale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Charmeuse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Terrycloth",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cambric",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Foulard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Samite",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barkcloth",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nankeen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lampas",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brilliantine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Songket",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moquette",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pongee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Whipcord",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coolmax",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Viyella",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ultrasuede",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jamdani",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aertex",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Airdura",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Airguard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barathea",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bengaline silk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bobbinet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bombazine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camlet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Capilene",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coutil",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cretonne",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crimplene",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darlexx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dornix",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dowlas",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Drugget",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eolienne",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gannex",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gazar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ghalamkar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Habutai",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Haircloth",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Himroo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hodden",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kerseymere",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Longcloth",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lumalive",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Madapolam",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Milliskin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mockado",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nainsook",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Needlerun net",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Osnaburg",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paduasoy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rakematiz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rayadillo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rinzu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shweshwe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Silnylon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sympatex",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tucuyo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ventile",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wadmal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Windstopper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zibeline",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zorbeez",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a room in a house.",
+      "answers": [
+        {
+          "answer": "Office",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Control room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Family room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Game room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Living room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Study",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Common room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tv room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Staff room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Waiting room",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Cold room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Weight room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Conference room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Clean room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hotel room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Equipment room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Library",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sitting room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Engine room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Changing room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Map room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Corner office",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Emergency room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pool room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Studio",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kitchen",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Assembly room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cry room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Drawing room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Guest room",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bathroom",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Print room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bedroom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gym",
+          "tier": "rare"
+        },
+        {
+          "answer": "Computer lab",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electrical room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Transmission control room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Conversation pit",
+          "tier": "rare"
+        },
+        {
+          "answer": "Utility room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Panic room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garage",
+          "tier": "rare"
+        },
+        {
+          "answer": "Basement",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dressing room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classroom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Workshop",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dining room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aircraft cabin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cabin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Closet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mud room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Water closet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Throne room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fitting room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Laundry room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chapel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lobby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Den",
+          "tier": "rare"
+        },
+        {
+          "answer": "Locker room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Airport lounge",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lounge",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nursery",
+          "tier": "rare"
+        },
+        {
+          "answer": "Salon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boiler room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fallout shelter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Attic",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rec room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Motel room",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cellar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Storm cellar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wine cellar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Courtroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wiring closet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ballroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Auditorium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Loft",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cafeteria",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Parlor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Conservatory",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sauna",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pantry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Armory",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anatomical theatre",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakfast nook",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Newsroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Showroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dormitory",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Foyer",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boardroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Billiard room",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Atelier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Washroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Backroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boudoir",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darkroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Alcove",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Playroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cloakroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Schoolroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tearoom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antechamber",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mailroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stockroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sunroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anteroom",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breezeway",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anechoic chamber",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Caldarium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aerary",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a music genre.",
+      "answers": [
+        {
+          "answer": "House",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Full on",
+          "tier": "plankton"
+        },
+        {
+          "answer": "New-age",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Space house",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sound art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "French house",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Deep house",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Art rock",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hard rock",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Space rock",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Beat music",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Big beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chinese rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New Beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Western",
+          "tier": "schooler"
+        },
+        {
+          "answer": "British dance",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dream house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Broken beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Christian rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "D-beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Post-rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dream pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pop rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Power pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Southern rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chicago house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Christian metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Death metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Heavy metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Power metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Speed metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rock and roll",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Technical death metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Post-metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Alternative dance",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Alternative metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Alternative rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Death industrial",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Industrial metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Industrial rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Industrial",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tech house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dance-rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jump-Up",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Soft rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dark Wave",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New wave",
+          "tier": "schooler"
+        },
+        {
+          "answer": "No wave",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Third stream",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dance-pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rock in Opposition",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Electronic art music",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Electronic rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Noise pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Noise rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Noise",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Power noise",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Latin house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Florida breaks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hip house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid breaks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Math rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dutch house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Desert rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Trip hop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New jack swing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive breaks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swing house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Trap",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Asian Underground",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chamber jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cool jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "European free jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jazz blues",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Latin jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Smooth jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Soul jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Straight-ahead jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "West Coast jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cape jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Experimental rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mainstream jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garage rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Speed garage",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baltimore Club",
+          "tier": "rare"
+        },
+        {
+          "answer": "Contemporary folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Industrial folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Progressive folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Art punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Christian punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garage punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Horror punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pop punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Punk jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Punk rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Street punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Power electronics",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chill out",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anti-folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vocal house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vocal jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dance-punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz rap",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rap metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rap rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Drum and bass",
+          "tier": "rare"
+        },
+        {
+          "answer": "Intelligent drum and bass",
+          "tier": "rare"
+        },
+        {
+          "answer": "Minimal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freak folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Medieval metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tribal house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Continental Jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz fusion",
+          "tier": "rare"
+        },
+        {
+          "answer": "World fusion",
+          "tier": "rare"
+        },
+        {
+          "answer": "Celtic metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Celtic punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Celtic",
+          "tier": "rare"
+        },
+        {
+          "answer": "Drone metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Drone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indie folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indie pop",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indie rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Digital hardcore",
+          "tier": "rare"
+        },
+        {
+          "answer": "Happy hardcore",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hardcore punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-hardcore",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-punk revival",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sung poetry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Surf rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lo-fi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-swing",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yacht rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Doom metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Epic doom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funeral doom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Traditional doom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freestyle house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freestyle",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cosmic disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Disco house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euro disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Space disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Disco polo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canterbury scene",
+          "tier": "rare"
+        },
+        {
+          "answer": "Groove metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Skate punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funk metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Liquid funk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crust punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ghetto house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crossover jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gothic metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gothic rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dub",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funky house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funky",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient dub",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark ambient",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz-funk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Viking metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark electro",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electro house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electro",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boogie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electro-industrial",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nu jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nu metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "New rave",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acid techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acid trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classic trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Detroit techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dream trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hard trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Progressive techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tech trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vocal trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glitch",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stride jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Diva house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Techno-folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hard bop",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-bop",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nu-disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Psychedelic folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Psychedelic rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Psychedelic trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Uplifting trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paisley Underground",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stoner rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-bop jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orchestral jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orchestral Uplifting",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark cabaret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Emo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Melodic death metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glam metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glam rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sludge metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "EDM",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ethereal wave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bouncy house",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bouncy techno",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Baggy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crossover thrash",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "New prog",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thrash metal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Modal jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Grime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Avant-garde jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ska jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ska punk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Grunge",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Post-grunge",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electro-grime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dunedin Sound",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sufi rock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Trad jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Symphonic metal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bebop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bubblegum dance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lowercase",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ethnic electronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hard NRG",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hi-NRG",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anarcho punk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Metalcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Novelty ragtime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ragtime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shibuya-kei",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Techno-DNB",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Raga rock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Twee Pop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bossa nova",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darkside jungle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bassline",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Italo dance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Italo disco",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Italo house",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Balearic Beat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oldschool jungle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boogie-woogie",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "IDM",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nu skool breaks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Britpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Post-Britpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neo-psychedelia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dixieland",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shoegaze",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hardstyle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Screamo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Downtempo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Deathcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synthpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vaporwave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Grindcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yorkshire Bleeps and Bass",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electro backbeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Riot grrrl",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chiptune",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurodance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakbeat hardcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakbeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electroacoustic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Krautrock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electropop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Free tekno",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ragga-jungle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurobeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dark psytrance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tecno brega",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gabber",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Makina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Djent",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chillwave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moombahton",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Psychobilly",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Europop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Deathrock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Filk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Madchester",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Powerviolence",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Drumstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neofolk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Toytown Techno",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electroclash",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mathcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jumpstyle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neurofunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Speedcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aggrotech",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bitpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coldwave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cowpunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crustgrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cybergrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darkcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darkstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Doomcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Drumfunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubstyle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubtronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electronicore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electropunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Folktronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Freakbeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Futurepop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ghettotech",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Goregrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hardbag",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hardstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Illbient",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Indietronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Japanoise",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Laptronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Livetronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nintendocore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Noisegrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nortec",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Psybreaks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Psyprog",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Raggacore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rapcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sadcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sambass",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Skweee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slowcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suomisaundi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synthcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synthpunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Technopop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Techstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Terrorcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thrashcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Turbofolk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Worldbeat",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a fruit.",
+      "answers": [
+        {
+          "answer": "Date",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Apple",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Blood orange",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Orange",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Star fruit",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Cherry",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Bell pepper",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fig",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Lemon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Olive",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Nut",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Banana",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Coconut",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lime",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tomato",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Peach",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chili pepper",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Strawberry",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Grape",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blackberry",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pineapple",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mango",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Plum",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Raspberry",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pear",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Avocado",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cucumber",
+          "tier": "rare"
+        },
+        {
+          "answer": "Watermelon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kiwi fruit",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canary melon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rock melon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blueberry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cranberry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Grapefruit",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mulberry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eggplant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Raisin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Apricot",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tangerine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pomegranate",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clementine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Papaya",
+          "tier": "rare"
+        },
+        {
+          "answer": "Quince",
+          "tier": "rare"
+        },
+        {
+          "answer": "Huckleberry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Guava",
+          "tier": "rare"
+        },
+        {
+          "answer": "Durian",
+          "tier": "rare"
+        },
+        {
+          "answer": "Persimmon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cantaloupe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gooseberry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Currant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Honeydew",
+          "tier": "rare"
+        },
+        {
+          "answer": "Satsuma",
+          "tier": "rare"
+        },
+        {
+          "answer": "Breadfruit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lychee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Blackcurrant",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jackfruit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Elderberry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Goji berry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nectarine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Passionfruit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Damson",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bilberry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kumquat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jujube",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Purple mangosteen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pomelo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rambutan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boysenberry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Salal berry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Physalis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cloudberry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Loquat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Redcurrant",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dragonfruit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mandarine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cherimoya",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Feijoa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ugli fruit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jambul",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tamarillo",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a world capital city.",
+      "answers": [
+        {
+          "answer": "London",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Paris",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mexico City",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Port Louis",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Port of Spain",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Rome",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Victoria",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Moscow",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Berlin",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Singapore",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Madrid",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New Delhi",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tokyo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jerusalem",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Beijing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dublin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Amsterdam",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brussels",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vienna",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ottawa",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Seoul",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Athens",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Port-au-Prince",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Manila",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Panama City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cairo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bangkok",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wellington",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vatican City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Stockholm",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sofia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kingston",
+          "tier": "schooler"
+        },
+        {
+          "answer": "San Salvador",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Copenhagen",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jakarta",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Santiago",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kuwait City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Warsaw",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Prague",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Monaco",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Canberra",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Baghdad",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lisbon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Guatemala City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tehran",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Damascus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lima",
+          "tier": "rare"
+        },
+        {
+          "answer": "Georgetown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Luxembourg",
+          "tier": "rare"
+        },
+        {
+          "answer": "Buenos Aires",
+          "tier": "rare"
+        },
+        {
+          "answer": "Budapest",
+          "tier": "rare"
+        },
+        {
+          "answer": "Beirut",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nairobi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Havana",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oslo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kiev",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kuala Lumpur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abu Dhabi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kabul",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hanoi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Helsinki",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ankara",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pretoria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nassau",
+          "tier": "rare"
+        },
+        {
+          "answer": "Islamabad",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgrade",
+          "tier": "rare"
+        },
+        {
+          "answer": "Taipei",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tripoli",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caracas",
+          "tier": "rare"
+        },
+        {
+          "answer": "San Marino",
+          "tier": "rare"
+        },
+        {
+          "answer": "Santo Domingo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dhaka",
+          "tier": "rare"
+        },
+        {
+          "answer": "Doha",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bucharest",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abuja",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bern",
+          "tier": "rare"
+        },
+        {
+          "answer": "La Paz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Minsk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pyongyang",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sarajevo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kathmandu",
+          "tier": "rare"
+        },
+        {
+          "answer": "Riyadh",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amman",
+          "tier": "rare"
+        },
+        {
+          "answer": "Accra",
+          "tier": "rare"
+        },
+        {
+          "answer": "Algiers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Porto-Novo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tunis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baku",
+          "tier": "rare"
+        },
+        {
+          "answer": "Khartoum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Riga",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dakar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Addis Ababa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zagreb",
+          "tier": "rare"
+        },
+        {
+          "answer": "Muscat",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kampala",
+          "tier": "rare"
+        },
+        {
+          "answer": "Phnom Penh",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mogadishu",
+          "tier": "rare"
+        },
+        {
+          "answer": "Harare",
+          "tier": "rare"
+        },
+        {
+          "answer": "Quito",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vilnius",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freetown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Montevideo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tbilisi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Monrovia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Djibouti",
+          "tier": "rare"
+        },
+        {
+          "answer": "Juba",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ciudad de la Paz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kinshasa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tallinn",
+          "tier": "rare"
+        },
+        {
+          "answer": "Astana",
+          "tier": "rare"
+        },
+        {
+          "answer": "Port Vila",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yerevan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bratislava",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bissau",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lusaka",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ramallah",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kigali",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Praia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Skopje",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rabat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ljubljana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Port Moresby",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nicosia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamako",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tirana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Andorra la Vella",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tashkent",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Managua",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sana'a",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suva",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bishkek",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dili",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Valletta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Manama",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Luanda",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maputo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Windhoek",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vientiane",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ouagadougou",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brazzaville",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Conakry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tegucigalpa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bridgetown",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dushanbe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bangui",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pristina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moroni",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kingstown",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Apia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gaborone",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tarawa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lilongwe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Asmara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antananarivo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Niamey",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Majuro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Honiara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ulaanbaatar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Roseau",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Podgorica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Castries",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thimphu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maseru",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Libreville",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Banjul",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paramaribo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ashgabat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nouakchott",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "N'Djamena",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Naypyidaw",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dodoma",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mbabane",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Basseterre",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belmopan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vaduz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bandar Seri Begawan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nuku'alofa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Funafuti",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yamoussoukro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gitega",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Palikir",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yaren",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ngerulmud",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Sri Jayawardenepura Kotte",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    }
+  ]
+}

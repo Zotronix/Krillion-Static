@@ -1,0 +1,3411 @@
+{
+  "gameId": 5,
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a musical instrument.",
+      "answers": [
+        {
+          "answer": "Guitar",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Baby grand piano",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Grand piano",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Piano",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Bass guitar",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Air horn",
+          "tier": "plankton"
+        },
+        {
+          "answer": "French horn",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Pipe organ",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Kick drum",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Violin",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Viola",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Flute",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pan flute",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Fiddle",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Harp",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Fife",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cello",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Banjo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Clarinet",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Accordion",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Piccolo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ukulele",
+          "tier": "rare"
+        },
+        {
+          "answer": "Harmonica",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trombone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bugle",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lute",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tuba",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mandolin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oboe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tambourine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Harpsichord",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lyre",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bassoon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Calliope",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sitar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xylophone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bagpipe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kazoo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Marimba",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Concertina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Didgeridoo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dulcimer",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dobro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zither",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Theremin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vuvuzela",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Glockenspiel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hurdy-gurdy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Washtub bass",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Flugelhorn",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Clavichord",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sousaphone",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Melodica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saxaphone",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Mellotran",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a pizza topping.",
+      "answers": [
+        {
+          "answer": "Chicken",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Cheese",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hot sauce",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Ground beef",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Bacon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Breakfast bacon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Canadian bacon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Ham",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Garlic",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tomatoes",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sun-dried tomato",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sausage",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Onions",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Grilled onions",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mushrooms",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chili peppers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Green peppers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pineapple",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spinach",
+          "tier": "rare"
+        },
+        {
+          "answer": "Olives",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Meatballs",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pepperoni",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Feta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Artichoke",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anchovies",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a horse breed.",
+      "answers": [
+        {
+          "answer": "American Indian Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Australian Stock Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "National Show Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "American Quarter Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Quarter Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Black Forest Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Canadian Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Asian wild Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "American Cream Draft",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Italian Heavy Draft",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Russian Heavy Draft",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Don",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Russian Don",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mountain Pleasure Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Soviet Heavy Draft",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American Paint Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Paint",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Morgan Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dutch Heavy Draft",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tiger Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cleveland Bay",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brazilian Sport Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "North Swedish Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tennessee Walking Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ukrainian Riding Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Colonial Spanish Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rocky Mountain Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spanish-Norman Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Heck Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vladimir Heavy Draft",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Colorado Ranger",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian Half-blood",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "East Bulgarian",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Banker Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kentucky Mountain Saddle Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spotted Saddle Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Miniature Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spanish Anglo-Arab",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dutch Harness Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Suffolk Punch",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Curly Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mustang Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spanish Mustang",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gypsy Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Arabian Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Georgian Grande Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Azerbaijan Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shire Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cumberland Island Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Florida Cracker Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Costa Rican Saddle Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Peruvian Paso",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Anglo-Arabian",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Barb Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spanish Barb",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tinker Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blazer Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Burmese Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Icelandic Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Albanian Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shan Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tori Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Basque Mountain Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Carolina Marsh Tacky",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Marsh Tacky",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hackney Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pryor Mountain Mustang",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Racking Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Danube Delta Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Henson Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Latvian Horse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Estonian Draft",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Estonian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trait Du Nord",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mongolian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mongolian Wild Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Australian Draught Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Irish Draught",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lithuanian Heavy Draught",
+          "tier": "rare"
+        },
+        {
+          "answer": "Breton Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Albino",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cob",
+          "tier": "rare"
+        },
+        {
+          "answer": "Norman Cob",
+          "tier": "rare"
+        },
+        {
+          "answer": "Welsh Cob",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caspian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thoroughbred",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kazakh Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Draft Trotter",
+          "tier": "rare"
+        },
+        {
+          "answer": "French Trotter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Italian Trotter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Missouri Fox Trotter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Russian Trotter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Virginia Highlander",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fjord Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kyrgyz Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Norwegian Fjord",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jeju Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canadian Pacer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Choctaw Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Groningen Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Karabakh Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Salerno Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Auvergne Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Noma",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jutland Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chickasaw Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clydesdale Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Andalusian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cretan Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Corsican Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nez Perce Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brabant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Galician Pony",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orlov trotter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ardennes Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Castilian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oldenburg Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Swedish Ardennes",
+          "tier": "rare"
+        },
+        {
+          "answer": "Misaki Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Balearic Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paso Fino",
+          "tier": "rare"
+        },
+        {
+          "answer": "Altai Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Metis Trotter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abyssinian",
+          "tier": "rare"
+        },
+        {
+          "answer": "Camarillo White Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sardinian Anglo-Arab",
+          "tier": "rare"
+        },
+        {
+          "answer": "Azteca Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sella Italiano",
+          "tier": "rare"
+        },
+        {
+          "answer": "Calabrese Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pampa Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Australian Brumby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brumby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hanoverian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Silesian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tsushima",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rhinelander Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Namib Desert Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Moyle Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Westphalian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Faroese",
+          "tier": "rare"
+        },
+        {
+          "answer": "East Friesian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Friesian Cross",
+          "tier": "rare"
+        },
+        {
+          "answer": "Friesian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Appaloosa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kiso Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abaco Barb",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baluchi Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Byelorussian Harness Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Camargue Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Argentine Criollo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Criollo Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cuban Criollo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Furioso-North Star",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ogaden",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pleven Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Carthusian Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Percheron",
+          "tier": "rare"
+        },
+        {
+          "answer": "Assateague Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gelderland Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spiti Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bashkir Curly",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spanish Jennet Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yili Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Standardbred Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dongola Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "San Fratello Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Marwari Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baise Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Austrian Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bavarian Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Czech Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Danish Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dutch Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "German Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hungarian Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Swedish Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Swiss Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Warmblood",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brandenburger",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fleuve",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oberlander Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jaca Navarra",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kiger Mustang",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bhutia Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kinsky Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nonius Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yonaguni Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Saddlebred",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kafa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Saddlebred",
+          "tier": "rare"
+        },
+        {
+          "answer": "Borana",
+          "tier": "rare"
+        },
+        {
+          "answer": "Comtois Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Poitevin Horse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lokai",
+          "tier": "rare"
+        },
+        {
+          "answer": "Falabella",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Konik",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kalmyk Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sokolsky Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coldblood Trotter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Croatian Coldblood",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Norwegian Coldblood Trotter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rhenish German Coldblood",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Schleswig Coldblood",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "South German Coldblood",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Swedish coldblood trotter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Horro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anglo-Arabo-Sardo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lusitano",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Waler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Waler Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Haflinger",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vyatka",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Messara Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Freiberger",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Frederiksborg Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Akhal-Teke",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Abtenauer",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aegidienberger",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Andravida Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anglo-Kabarda",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "AraAppaloosa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Arenberg-Nordkirchen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Augeron",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Auxois",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Balikun Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bardigiano",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boerperd",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boulonnais Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Budyonny Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Burguete Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Campeiro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Campolina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Castillonnais",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Catria Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cerbat Mustang",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chilean Corralero",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Daliboz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dole Gudbrandsdal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dzungarian Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Finnhorse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Friesian Sporthorse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Giara Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gidran",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Heihe Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hequ Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hirzai",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Holsteiner Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Iomud",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kabarda Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kaimanawa Horses",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Karabair",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Karachai Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Karossier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kathiawari",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kisber Felver",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kladruber",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Knabstrupper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kundudo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kustanair",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lipizzan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Losino Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lyngshest",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "M'Bayar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "M'Par",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Malopolski",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mangalarga",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mangalarga Marchador",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maremmano",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mecklenburger",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Monchina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Monterufolino",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Morab",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Murakoz Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Murgese",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nangchen Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nivernais Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nokota Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nooitgedachter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nordlandshest",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Noriker Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Novokirghiz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ostfriesen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pentro Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Persano Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pintabian",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Posavac Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pottok",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Przewalski's Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Purosangue Orientale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Qatgani",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Quarab",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Retuerta Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Riwoche Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Romanian Sporthorse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rottaler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Samolaco Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sarcidano Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Selale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shagya Arabian",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Siciliano Indigeno",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sorraia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Spanish Tarpan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Takhi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tawleed",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tchernomor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tersk Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tolfetano",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Trakehner",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tuigpaard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Unmol Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Uzunyayla",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ventasso Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vlaamperd",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Walkaloosa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Warlander",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wielkopolski",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xilingol Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yakutian Horse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zaniskari",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Zhemaichu",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a beer style.",
+      "answers": [
+        {
+          "answer": "European-style dark",
+          "tier": "plankton"
+        },
+        {
+          "answer": "California common beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Field beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Session beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Smoke beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fruit beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Out of category",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Aged beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Experimental beer",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Extra special bitter",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Ordinary bitter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Special bitter or best bitter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wood- and barrel-aged beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wood- and barrel-aged dark beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style imperial porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brown porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Smoke porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Robust porter",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Non-alcoholic beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Specialty beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wood- and barrel-aged sour beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pumpkin beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian-style table beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian-style white",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Herb and spice beer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Winter warmer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style brown ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style india black ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style india pale ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style pale ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style sour ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style strong pale ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American-style wheat wine ale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belgian-style blonde ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian-style dark strong ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian-style pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgian-style pale strong ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classic english-style pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style brown ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style dark mild ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style india pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style pale mild ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "English-style summer ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fresh hop ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Golden or blonde ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Imperial or double red ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "International-style pale ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Irish-style red ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Old ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scotch ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scottish-style export ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scottish-style heavy ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scottish-style light ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Strong ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gluten-free beer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Japanese sake-yeast beer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baltic-style porter",
+          "tier": "rare"
+        },
+        {
+          "answer": "German-style rye ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style barley wine ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "British-style barley wine ale",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style imperial stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "British-style imperial stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classic irish-style dry stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Foreign-style stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sweet stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "Coffee-flavored beer",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style malt liquor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oatmeal stout",
+          "tier": "rare"
+        },
+        {
+          "answer": "American rye ale or lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style amber lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style dark lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style ice lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style light lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "American-style premium lager",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark american wheat ale or lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dry lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "European low-alcohol lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fruit wheat ale or lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Latin american-style light lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Other strong ale or lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Specialty honey lager or ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tropical-style light lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vienna-style lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Other belgian-style ales",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Australasian-style light lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Australasian-style pale ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Traditional german-style bock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style oktoberfest",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Leipzig-style gose",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Specialty stouts",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Berliner-style weisse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style fruit lambic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style lambic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style tripel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "South german-style hefeweizen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style dubbel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style kolsch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bohemian-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "International-style pilsener",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dark american-belgo-style ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pale american-belgo-style ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style gueuze lambic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "French-style biere de garde",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "South german-style dunkel weizen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style doppelbock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style marzen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style marzen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style bock rauchbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style helles rauchbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamberg-style weiss rauchbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belgian-style quadrupel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style eisbock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style leichtes weizen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "German-style schwarzbier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kellerbier - ale",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kellerbier - lager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Munchner-style helles",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "South german-style weizenbock",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a world capital city.",
+      "answers": [
+        {
+          "answer": "London",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Paris",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mexico City",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Port Louis",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Port of Spain",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Rome",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Victoria",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Moscow",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Berlin",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Singapore",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Madrid",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New Delhi",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tokyo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jerusalem",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Beijing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dublin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Amsterdam",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brussels",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vienna",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ottawa",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Seoul",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Athens",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Port-au-Prince",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Manila",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Panama City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cairo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bangkok",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wellington",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vatican City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Stockholm",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sofia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kingston",
+          "tier": "schooler"
+        },
+        {
+          "answer": "San Salvador",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Copenhagen",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jakarta",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Santiago",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kuwait City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Warsaw",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Prague",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Monaco",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Canberra",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Baghdad",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lisbon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Guatemala City",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tehran",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Damascus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lima",
+          "tier": "rare"
+        },
+        {
+          "answer": "Georgetown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Luxembourg",
+          "tier": "rare"
+        },
+        {
+          "answer": "Buenos Aires",
+          "tier": "rare"
+        },
+        {
+          "answer": "Budapest",
+          "tier": "rare"
+        },
+        {
+          "answer": "Beirut",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nairobi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Havana",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oslo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kiev",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kuala Lumpur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abu Dhabi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kabul",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hanoi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Helsinki",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ankara",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pretoria",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nassau",
+          "tier": "rare"
+        },
+        {
+          "answer": "Islamabad",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belgrade",
+          "tier": "rare"
+        },
+        {
+          "answer": "Taipei",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tripoli",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caracas",
+          "tier": "rare"
+        },
+        {
+          "answer": "San Marino",
+          "tier": "rare"
+        },
+        {
+          "answer": "Santo Domingo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dhaka",
+          "tier": "rare"
+        },
+        {
+          "answer": "Doha",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bucharest",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abuja",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bern",
+          "tier": "rare"
+        },
+        {
+          "answer": "La Paz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Minsk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pyongyang",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sarajevo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kathmandu",
+          "tier": "rare"
+        },
+        {
+          "answer": "Riyadh",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amman",
+          "tier": "rare"
+        },
+        {
+          "answer": "Accra",
+          "tier": "rare"
+        },
+        {
+          "answer": "Algiers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Porto-Novo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tunis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baku",
+          "tier": "rare"
+        },
+        {
+          "answer": "Khartoum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Riga",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dakar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Addis Ababa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zagreb",
+          "tier": "rare"
+        },
+        {
+          "answer": "Muscat",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kampala",
+          "tier": "rare"
+        },
+        {
+          "answer": "Phnom Penh",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mogadishu",
+          "tier": "rare"
+        },
+        {
+          "answer": "Harare",
+          "tier": "rare"
+        },
+        {
+          "answer": "Quito",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vilnius",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freetown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Montevideo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tbilisi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Monrovia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Djibouti",
+          "tier": "rare"
+        },
+        {
+          "answer": "Juba",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ciudad de la Paz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kinshasa",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tallinn",
+          "tier": "rare"
+        },
+        {
+          "answer": "Astana",
+          "tier": "rare"
+        },
+        {
+          "answer": "Port Vila",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yerevan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bratislava",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bissau",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lusaka",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ramallah",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kigali",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Praia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Skopje",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rabat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ljubljana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Port Moresby",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nicosia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bamako",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tirana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Andorra la Vella",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tashkent",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Managua",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sana'a",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suva",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bishkek",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dili",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Valletta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Manama",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Luanda",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maputo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Windhoek",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vientiane",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ouagadougou",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brazzaville",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Conakry",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tegucigalpa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bridgetown",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dushanbe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bangui",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pristina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moroni",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kingstown",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Apia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gaborone",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tarawa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lilongwe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Asmara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antananarivo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Niamey",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Majuro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Honiara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ulaanbaatar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Roseau",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Podgorica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Castries",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thimphu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maseru",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Libreville",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Banjul",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paramaribo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ashgabat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nouakchott",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "N'Djamena",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Naypyidaw",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dodoma",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mbabane",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Basseterre",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belmopan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vaduz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bandar Seri Begawan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nuku'alofa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Funafuti",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yamoussoukro",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gitega",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Palikir",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yaren",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ngerulmud",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Sri Jayawardenepura Kotte",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a Greek god or mythological figure.",
+      "answers": [
+        {
+          "answer": "Chaos",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Apollo",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Zeus",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Nemesis",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hermes",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Athena",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hades",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Poseidon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Ares",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Artemis",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Gaia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Uranus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Eros",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hera",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aphrodite",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Aether",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nyx",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dionysus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Erebus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chronos",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tartarus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Demeter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pontus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hephaestus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thanatos",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hestia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hypnos",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thalassa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hemera",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ananke",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Phanes",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a condiment or sauce.",
+      "answers": [
+        {
+          "answer": "Salt",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fish sauce",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hot sauce",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Salad cream",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Salad dressing",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Salt and pepper",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Olive oil",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Dip",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Crushed red pepper",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Steak sauce",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fish paste",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cocktail sauce",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Fry sauce",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pepper jelly",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Syrup",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chili sauce",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chili oil",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brown mustard",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hot mustard",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mustard",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mustard oil",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chili peppers",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nutritional yeast",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Vinegar",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black vinegar",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Soy sauce",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Barbecue sauce",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Salsa",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Salsa golf",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ketchup",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fruit ketchup",
+          "tier": "rare"
+        },
+        {
+          "answer": "Banana ketchup",
+          "tier": "rare"
+        },
+        {
+          "answer": "Curry ketchup",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mushroom ketchup",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sesame oil",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mango pickle",
+          "tier": "rare"
+        },
+        {
+          "answer": "Monkey gland sauce",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fruit preserves",
+          "tier": "rare"
+        },
+        {
+          "answer": "Relish",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sweet chilli sauce",
+          "tier": "rare"
+        },
+        {
+          "answer": "Popcorn seasoning",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mayonnaise",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pickled fruit",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pickled cucumber",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pickled onion",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pickled pepper",
+          "tier": "rare"
+        },
+        {
+          "answer": "XO sauce",
+          "tier": "rare"
+        },
+        {
+          "answer": "Honey dill",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pico de gallo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Colo-colo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Guacamole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pesto",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tartar sauce",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kimchi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dijon ketchup",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dijon mustard",
+          "tier": "rare"
+        },
+        {
+          "answer": "Watermelon rind preserves",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chutney",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sriracha",
+          "tier": "rare"
+        },
+        {
+          "answer": "Horseradish",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sauerkraut",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mumbo sauce",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Teriyaki sauce",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vino cotto",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aioli",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tewkesbury mustard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Za'atar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sambal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Amba",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gochujang",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chimichurri",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mignonette sauce",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Remoulade",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Piccalilli",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Murri",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tekka",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Toum",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dabu-dabu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ajvar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fritessaus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Skhug",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kachumbari",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kachumber",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Khrenovina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kyopolou",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Milkette",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Muhammara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mostarda",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Turun sinappi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chrain",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ljutenica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Salmoriglio",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Skyronnes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sumbala",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tkemali",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Vincotto",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    }
+  ]
+}

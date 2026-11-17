@@ -1,0 +1,8178 @@
+{
+  "gameId": 7,
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name an art movement or '-ism'.",
+      "answers": [
+        {
+          "answer": "New media art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Video art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Video game art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Street art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Land art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Performance art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sound art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Modern art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Systems art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Pop art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mail art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Young british artists",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Action painting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Color field painting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hard-edge painting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Academic",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Op art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Intervention art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Installation art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hudson river school",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Renaissance",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Realism",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Social realism",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Socialist realism",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gothic art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "International gothic",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Conceptual art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Outsider art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cobra",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Neo-geo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Russian symbolism",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Symbolism",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Kinetic art",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Art deco",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Baroque",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Geometric abstraction",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lyrical abstraction",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Relational art",
+          "tier": "rare"
+        },
+        {
+          "answer": "Metaphysical art",
+          "tier": "rare"
+        },
+        {
+          "answer": "Modernism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Idealism",
+          "tier": "rare"
+        },
+        {
+          "answer": "New objectivity",
+          "tier": "rare"
+        },
+        {
+          "answer": "Multiculturalism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dada",
+          "tier": "rare"
+        },
+        {
+          "answer": "Postmodern art",
+          "tier": "rare"
+        },
+        {
+          "answer": "Art nouveau",
+          "tier": "rare"
+        },
+        {
+          "answer": "Avant-garde",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-dada",
+          "tier": "rare"
+        },
+        {
+          "answer": "Secularism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Humanism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Romanticism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Minimalism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-minimalism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-minimalism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Naturalism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Surrealism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Postmodernism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Formalism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Impressionism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-impressionism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Romanesque",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-impressionism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bauhaus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Existentialism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rococo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Abstract expressionism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Expressionism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-expressionism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classicism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Futurism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Russian futurism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ego-futurism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-classicism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-painterly abstraction",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cubism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eclecticism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-structuralism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Structuralism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Carolingian",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mannerism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lowbrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Historicism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Primitivism",
+          "tier": "rare"
+        },
+        {
+          "answer": "Merovingian",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fluxus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scuola romana",
+          "tier": "rare"
+        },
+        {
+          "answer": "Barbizon school",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Purism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pre-raphaelites",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neoclassicism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Photorealism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aestheticism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dadaism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Situationist international",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Post-conceptualism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cubo-futurism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "De stijl",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Biedermeier",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Maximalism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fauvism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neo-fauvism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Illusionism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Les nabis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Der blaue reiter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suprematism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jugendstil",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hyperrealism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ottonian",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Superflat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Perspectivism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Orphism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Divisionism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vorticism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Caravaggisti",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cloisonnism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Deformalism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Incoherents",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lettrism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Luminism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Manierism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Monumentalism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neoism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neue slowenische kunst",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nonconformism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nouveau realisme",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pointilism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Postminimalism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Precisionism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rayonism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Remodernism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stuckism international",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stuckism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Superstroke",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synchromism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synthetism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tachism",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tachisme",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Tonalism",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a piece of clothing.",
+      "answers": [
+        {
+          "answer": "Top",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Baby grow",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Dress",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Suit",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Shoes",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Shirt",
+          "tier": "plankton"
+        },
+        {
+          "answer": "T-shirt",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hat",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Cap",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tie",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Pants",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Belt",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Coat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Boots",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dinner jacket",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jacket",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bow tie",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swimming costume",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jeans",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shorts",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swimming shorts",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gloves",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Socks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Skirt",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Underwear",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zip",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bra",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sweater",
+          "tier": "rare"
+        },
+        {
+          "answer": "Polo shirt",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ball gown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dressing gown",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vest",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vest underwear",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sunglasses",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trainers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bikini",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jumper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trousers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scarf",
+          "tier": "rare"
+        },
+        {
+          "answer": "Waterproof",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lingerie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Robe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stockings",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sandals",
+          "tier": "rare"
+        },
+        {
+          "answer": "Swimming trunks",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boxers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blouse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jogging suit",
+          "tier": "rare"
+        },
+        {
+          "answer": "Slippers",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fleece",
+          "tier": "rare"
+        },
+        {
+          "answer": "Briefs",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tights",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blazer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cardigan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sweatshirt",
+          "tier": "rare"
+        },
+        {
+          "answer": "Shawl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thong",
+          "tier": "rare"
+        },
+        {
+          "answer": "Corset",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Swimwear",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pyjamas",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Knickers",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Underpants",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slacks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kilt",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Poncho",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tracksuit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Raincoat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Waistcoat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cufflinks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nightgown",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Romper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cravat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hoody",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Undershirt",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sarong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dungarees",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kurta",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chemise",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Catsuit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nightwear",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Camisole",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cargos",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kaftan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pashmina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Underclothes",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cummerbund",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tankini",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tailcoat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shellsuit",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a major river.",
+      "answers": [
+        {
+          "answer": "White",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Red",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Green",
+          "tier": "plankton"
+        },
+        {
+          "answer": "James",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Peace",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fly",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Canadian",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Milk",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Orange",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Ohio",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Don",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Amazon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Colorado",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Saint Louis",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Columbia",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Detroit",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Slave",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Saint Lawrence",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Murray",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Missouri",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cooper",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nelson",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Snake",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tennessee",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mississippi",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Upper Mississippi",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pearl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Darling",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Arkansas",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jefferson",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ottawa",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Grande",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rio Grande",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Han",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Churchill",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Fraser",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wu",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Congo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Negro",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Uruguay",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rio Grande de Santiago",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nile",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blue Nile",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lena",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mackenzie",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Niagara",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Krishna",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Shire",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Niger",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Saskatchewan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "North Saskatchewan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cumberland",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ob",
+          "tier": "rare"
+        },
+        {
+          "answer": "Upper Ob",
+          "tier": "rare"
+        },
+        {
+          "answer": "Huang He",
+          "tier": "rare"
+        },
+        {
+          "answer": "Senegal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Saint Clair",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rhine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellowstone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paraguay",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yukon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Danube",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zhu Jiang",
+          "tier": "rare"
+        },
+        {
+          "answer": "Allegheny",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Georgina",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gambia",
+          "tier": "rare"
+        },
+        {
+          "answer": "Volta",
+          "tier": "rare"
+        },
+        {
+          "answer": "Madeira",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ganges",
+          "tier": "rare"
+        },
+        {
+          "answer": "Warburton",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gila",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euphrates",
+          "tier": "rare"
+        },
+        {
+          "answer": "Saint Marys",
+          "tier": "rare"
+        },
+        {
+          "answer": "Madre de Dios",
+          "tier": "rare"
+        },
+        {
+          "answer": "Finlay",
+          "tier": "rare"
+        },
+        {
+          "answer": "Platte",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mekong",
+          "tier": "rare"
+        },
+        {
+          "answer": "Magdalena",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rocha",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tigris",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kama",
+          "tier": "rare"
+        },
+        {
+          "answer": "Liao",
+          "tier": "rare"
+        },
+        {
+          "answer": "Volga",
+          "tier": "rare"
+        },
+        {
+          "answer": "Loire",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yangtze",
+          "tier": "rare"
+        },
+        {
+          "answer": "Helmand",
+          "tier": "rare"
+        },
+        {
+          "answer": "Padma",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ural",
+          "tier": "rare"
+        },
+        {
+          "answer": "Oka",
+          "tier": "rare"
+        },
+        {
+          "answer": "Beni",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pecos",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elbe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nen",
+          "tier": "rare"
+        },
+        {
+          "answer": "Limpopo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brazos",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amur",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zambezi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Benue",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vaal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ili",
+          "tier": "rare"
+        },
+        {
+          "answer": "Athabasca",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yamuna",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amu Darya",
+          "tier": "rare"
+        },
+        {
+          "answer": "Syr Darya",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orinoco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Godavari",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cimarron",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vistula",
+          "tier": "rare"
+        },
+        {
+          "answer": "Narmada",
+          "tier": "rare"
+        },
+        {
+          "answer": "Huai",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kasai",
+          "tier": "rare"
+        },
+        {
+          "answer": "Okavango",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brahmaputra",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dnieper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aras",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tagus",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lower Tunguska",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stony Tunguska",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tarim",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hooghly",
+          "tier": "rare"
+        },
+        {
+          "answer": "Angara",
+          "tier": "rare"
+        },
+        {
+          "answer": "Northern Salado",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cauca",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lerma",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dniester",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sutlej",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chenab",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Desna",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tocantins",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xingu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Murrumbidgee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pechora",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sepik",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kolyma",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vltava",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shatt al-Arab",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Essequibo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ucayali",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kuskokwim",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Liard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bermejo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Katun",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yenisei",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Upper Yenisei",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Little Yenisei",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breg",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Daugava",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aldan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Salween",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Dvina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Irtysh",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ubangi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chindwin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Araguaia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ishim",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kagera",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anadyr",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Huallaga",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Panj",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Draa",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Songhua",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tsangpo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zeya",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Seversky Donets",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belaya",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jubba",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vyatka",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Naryn",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barcoo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Argun",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kapuas",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Selenge",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chambeshi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vilyuy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pilcomayo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Olenyok",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Uele",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ayeyarwady",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vitim",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Indigirka",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Khatanga",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tobol",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shebelle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Guapay",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mtkvari",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yalong",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Olyokma",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sukhona",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Iriri",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lomami",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Juruena",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sankuru",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vychegda",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jialing River",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kwango",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ghaghara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Guaviare",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aruwimi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Khoper",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a music genre.",
+      "answers": [
+        {
+          "answer": "House",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Full on",
+          "tier": "plankton"
+        },
+        {
+          "answer": "New-age",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Space house",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Sound art",
+          "tier": "plankton"
+        },
+        {
+          "answer": "French house",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Deep house",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Art rock",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Hard rock",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Space rock",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Beat music",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Big beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chinese rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New Beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Western",
+          "tier": "schooler"
+        },
+        {
+          "answer": "British dance",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dream house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Broken beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Christian rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "D-beat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Post-rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dream pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pop rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Power pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Southern rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chicago house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Christian metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Death metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Heavy metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Power metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Speed metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rock and roll",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Technical death metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Post-metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Alternative dance",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Alternative metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Alternative rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Death industrial",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Industrial metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Industrial rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Industrial",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tech house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dance-rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jump-Up",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Soft rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dark Wave",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New wave",
+          "tier": "schooler"
+        },
+        {
+          "answer": "No wave",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Third stream",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dance-pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rock in Opposition",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Electronic art music",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Electronic rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Noise pop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Noise rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Noise",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Power noise",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Latin house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Florida breaks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hip house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid breaks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Math rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Dutch house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Desert rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Trip hop",
+          "tier": "schooler"
+        },
+        {
+          "answer": "New jack swing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive breaks",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive metal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive rock",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Progressive",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swing house",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swing",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Trap",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Asian Underground",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Acid jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chamber jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cool jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "European free jazz",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jazz blues",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Latin jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Smooth jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Soul jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Straight-ahead jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "West Coast jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cape jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Experimental rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mainstream jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garage rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Speed garage",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baltimore Club",
+          "tier": "rare"
+        },
+        {
+          "answer": "Contemporary folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Industrial folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Progressive folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Art punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Christian punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Folk punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Garage punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Horror punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pop punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Punk jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Punk rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Street punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Power electronics",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chill out",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anti-folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vocal house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vocal jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dance-punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz rap",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rap metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rap rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Drum and bass",
+          "tier": "rare"
+        },
+        {
+          "answer": "Intelligent drum and bass",
+          "tier": "rare"
+        },
+        {
+          "answer": "Minimal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freak folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Medieval metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tribal house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Continental Jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz fusion",
+          "tier": "rare"
+        },
+        {
+          "answer": "World fusion",
+          "tier": "rare"
+        },
+        {
+          "answer": "Celtic metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Celtic punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Celtic",
+          "tier": "rare"
+        },
+        {
+          "answer": "Drone metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Drone",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indie folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indie pop",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indie rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Digital hardcore",
+          "tier": "rare"
+        },
+        {
+          "answer": "Happy hardcore",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hardcore punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-hardcore",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-punk revival",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sung poetry",
+          "tier": "rare"
+        },
+        {
+          "answer": "Surf rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lo-fi",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-swing",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yacht rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Doom metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Epic doom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funeral doom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Traditional doom",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freestyle house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Freestyle",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cosmic disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Disco house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Euro disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Space disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Disco polo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canterbury scene",
+          "tier": "rare"
+        },
+        {
+          "answer": "Groove metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Skate punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funk metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Liquid funk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crust punk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ghetto house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crossover jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gothic metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gothic rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dub",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funky house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Funky",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient dub",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark ambient",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jazz-funk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Viking metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark electro",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electro house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electro",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boogie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Electro-industrial",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nu jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nu metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "New rave",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acid techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acid trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ambient techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Classic trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Detroit techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dream trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hard trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Progressive techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tech trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Techno",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vocal trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glitch",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stride jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Diva house",
+          "tier": "rare"
+        },
+        {
+          "answer": "Techno-folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hard bop",
+          "tier": "rare"
+        },
+        {
+          "answer": "Post-bop",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nu-disco",
+          "tier": "rare"
+        },
+        {
+          "answer": "Psychedelic folk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Psychedelic rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Psychedelic trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Uplifting trance",
+          "tier": "rare"
+        },
+        {
+          "answer": "Paisley Underground",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stoner rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neo-bop jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orchestral jazz",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orchestral Uplifting",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark cabaret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Emo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Melodic death metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glam metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glam rock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sludge metal",
+          "tier": "rare"
+        },
+        {
+          "answer": "EDM",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ethereal wave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bouncy house",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bouncy techno",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Baggy",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crossover thrash",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "New prog",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thrash metal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Modal jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Grime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Avant-garde jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ska jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ska punk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Grunge",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Post-grunge",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electro-grime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dunedin Sound",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sufi rock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Trad jazz",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Symphonic metal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bebop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bubblegum dance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lowercase",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ethnic electronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hard NRG",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hi-NRG",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anarcho punk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Metalcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Novelty ragtime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ragtime",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shibuya-kei",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Techno-DNB",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Raga rock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Twee Pop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bossa nova",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darkside jungle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bassline",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Italo dance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Italo disco",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Italo house",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Balearic Beat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oldschool jungle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boogie-woogie",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "IDM",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nu skool breaks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Britpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Post-Britpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neo-psychedelia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dixieland",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shoegaze",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hardstyle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Screamo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Downtempo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Deathcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synthpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vaporwave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Grindcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yorkshire Bleeps and Bass",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electro backbeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Riot grrrl",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chiptune",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurodance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakbeat hardcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakbeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electroacoustic",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Krautrock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electropop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Free tekno",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ragga-jungle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurobeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dark psytrance",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tecno brega",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gabber",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Makina",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Djent",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chillwave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moombahton",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Psychobilly",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Europop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Deathrock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Filk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Madchester",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Powerviolence",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Drumstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neofolk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Toytown Techno",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electroclash",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mathcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jumpstyle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neurofunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Speedcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aggrotech",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bitpop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Breakstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Coldwave",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cowpunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crustgrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cybergrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darkcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darkstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Doomcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Drumfunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubstyle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubtronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electronicore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Electropunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Folktronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Freakbeat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Futurepop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ghettotech",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Goregrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hardbag",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hardstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Illbient",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Indietronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Japanoise",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Laptronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Livetronica",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nintendocore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Noisegrind",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nortec",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Psybreaks",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Psyprog",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Raggacore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rapcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sadcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sambass",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Skweee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slowcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Suomisaundi",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synthcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Synthpunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Technopop",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Techstep",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Terrorcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thrashcore",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Turbofolk",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Worldbeat",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a common animal.",
+      "answers": [
+        {
+          "answer": "Dog",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fish",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Cat",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Horse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Bear",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Fox",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Silver fox",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Wolf",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Bull",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mouse",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Bat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Seal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tiger",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lion",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Snake",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ram",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sheep",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Buffalo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pig",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Deer",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Elephant",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Monkey",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Guinea pig",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rabbit",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Goat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lamb",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mountain goat",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Whale",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Polar bear",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Turtle",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Frog",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Crow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Prairie dog",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Squirrel",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Panda",
+          "tier": "rare"
+        },
+        {
+          "answer": "Panther",
+          "tier": "rare"
+        },
+        {
+          "answer": "Camel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lizard",
+          "tier": "rare"
+        },
+        {
+          "answer": "Donkey",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gorilla",
+          "tier": "rare"
+        },
+        {
+          "answer": "Beaver",
+          "tier": "rare"
+        },
+        {
+          "answer": "Moose",
+          "tier": "rare"
+        },
+        {
+          "answer": "Leopard",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mustang",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ground hog",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hog",
+          "tier": "rare"
+        },
+        {
+          "answer": "Finch",
+          "tier": "rare"
+        },
+        {
+          "answer": "Jaguar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kangaroo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crocodile",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Parrot",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ape",
+          "tier": "rare"
+        },
+        {
+          "answer": "Badger",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ox",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canary",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mule",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wolverine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zebra",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cougar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Otter",
+          "tier": "rare"
+        },
+        {
+          "answer": "Coyote",
+          "tier": "rare"
+        },
+        {
+          "answer": "Toad",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alligator",
+          "tier": "rare"
+        },
+        {
+          "answer": "Giraffe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Reindeer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hamster",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boar",
+          "tier": "rare"
+        },
+        {
+          "answer": "Grizzly bear",
+          "tier": "rare"
+        },
+        {
+          "answer": "Raccoon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bison",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hedgehog",
+          "tier": "rare"
+        },
+        {
+          "answer": "Reptile",
+          "tier": "rare"
+        },
+        {
+          "answer": "Newt",
+          "tier": "rare"
+        },
+        {
+          "answer": "Puma",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cheetah",
+          "tier": "rare"
+        },
+        {
+          "answer": "Weasel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mink",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yak",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chameleon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Skunk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sloth",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antelope",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Impala",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lynx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wildcat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gnu",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Koala",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ferret",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Walrus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chimpanzee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Llama",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gila monster",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Porcupine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gazelle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gopher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jackal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rhinoceros",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Alpaca",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hyena",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Orangutan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ewe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Salamander",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dingo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shrew",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chipmunk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Iguana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Baboon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Armadillo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Platypus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mongoose",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wombat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chinchilla",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lemur",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hippopotamus",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Porpoise",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oryx",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Warthog",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Parakeet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Opossum",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ibex",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Muskrat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aardvark",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ocelot",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Woodchuck",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tapir",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Capybara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dromedary",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Marmoset",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mandrill",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mynah bird",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a North American bird.",
+      "answers": [
+        {
+          "answer": "Southern Martin",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Common House-Martin",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Wild Turkey",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Yellow Rail",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Black Rail",
+          "tier": "plankton"
+        },
+        {
+          "answer": "King Rail",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Virginia Rail",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Gray Jay",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Brown Jay",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Green Jay",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Blue Jay",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mexican Jay",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American Robin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Purple Martin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wood Duck",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American Black Duck",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spotted Rail",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black Swift",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Common Swift",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Golden Eagle",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Eastern Whip-poor-will",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mexican Whip-poor-will",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cuban Martin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Common Crane",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Northern Cardinal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Barn Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spotted Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Great Gray Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tree Swallow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bank Swallow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cliff Swallow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cave Swallow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Barn Swallow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Emperor Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Snow Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Canada Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Egyptian Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Bald Eagle",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Violet-green Swallow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Crane Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Common Black Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gray Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Northern Hawk Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American Crow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Fish Crow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Northwestern Crow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Common Raven",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Great Knot",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Red Knot",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Barred Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Prairie Falcon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spotted Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mourning Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mute Swan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Common Ground-Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "White-tipped Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Masked Duck",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Greater Prairie-Chicken",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lesser Prairie-Chicken",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Elf Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Little Stint",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rock Pigeon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "White-crowned Pigeon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Passenger Pigeon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Florida Scrub-Jay",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Island Scrub-Jay",
+          "tier": "schooler"
+        },
+        {
+          "answer": "California Scrub-Jay",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Red-billed Pigeon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Eastern Spot-billed Duck",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Snail Kite",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mississippi Kite",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chimney Swift",
+          "tier": "schooler"
+        },
+        {
+          "answer": "House Finch",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Purple Finch",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Double-striped Thick-knee",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hook-billed Kite",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Thick-billed Parrot",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Red-crowned Parrot",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Olive Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American Tree Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Clay-colored Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Field Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Five-striped Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Savannah Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Seaside Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Fox Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Song Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swamp Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "White-crowned Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Golden-crowned Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "House Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Oriental Turtle-Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "European Turtle-Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rough-legged Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Snowy Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Roadside Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "White-winged Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Merlin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Broad-winged Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Northern Rough-winged Swallow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black Phoebe",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Eastern Phoebe",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Long-tailed Duck",
+          "tier": "schooler"
+        },
+        {
+          "answer": "White-tailed Kite",
+          "tier": "schooler"
+        },
+        {
+          "answer": "White-tailed Eagle",
+          "tier": "schooler"
+        },
+        {
+          "answer": "White-tailed Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Short-tailed Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Red-tailed Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Band-tailed Pigeon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zone-tailed Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Siberian Blue Robin",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Labrador Duck",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Red-footed Falcon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Fork-tailed Swift",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pink-footed Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blue-winged Teal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cinnamon Teal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Green-winged Teal",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swallow-tailed Kite",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Redhead",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gray Partridge",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Smooth-billed Ani",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Groove-billed Ani",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black Vulture",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Turkey Vulture",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chipping Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Whooping Crane",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Spruce Grouse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sharp-tailed Grouse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Common Cuckoo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Oriental Cuckoo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yellow-billed Cuckoo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black-billed Cuckoo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lark Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mountain Quail",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Scaled Quail",
+          "tier": "schooler"
+        },
+        {
+          "answer": "California Quail",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Greater White-fronted Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lesser White-fronted Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Northern Flicker",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gilded Flicker",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Great Blue Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gray Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Little Blue Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Green Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black-crowned Night-Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yellow-crowned Night-Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rock Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Canyon Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "House Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pacific Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Winter Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Marsh Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Carolina Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cactus Wren",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Asian Rosy-Finch",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gray-crowned Rosy-Finch",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black Rosy-Finch",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brown-capped Rosy-Finch",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tundra Bean-Goose",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Tundra Swan",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American White Pelican",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brown Pelican",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Greater Sage-Grouse",
+          "tier": "schooler"
+        },
+        {
+          "answer": "American Flamingo",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ruff",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chinese Pond-Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cooper's Hawk",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Jack Snipe",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Wilson's Snipe",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Common Snipe",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pin-tailed Snipe",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Solitary Snipe",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Great Horned Owl",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Horned Lark",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Snow Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lark Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Pine Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Little Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Rustic Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gray Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Reed Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Blue Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Indigo Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Varied Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Painted Bunting",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Double-toothed Kite",
+          "tier": "schooler"
+        },
+        {
+          "answer": "European Starling",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Grasshopper Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lincoln's Sparrow",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Western Reef-Heron",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Key West Quail-Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ruddy Duck",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Inca Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ruddy Ground-Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ruddy Quail-Dove",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Brown-backed Solitaire",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Swallow-tailed Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ivory Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Gray-hooded Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black-headed Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Little Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Laughing Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Black-tailed Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Mew Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Ring-billed Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Western Gull",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Yellow-footed Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "California Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Herring Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-legged Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Iceland Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lesser Black-backed Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Great Black-backed Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Green-breasted Mango",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bell's Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arctic Loon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pacific Loon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Common Loon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-billed Loon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sora",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Hobby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-breasted Chat",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-breasted Bunting",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Tree Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Masked Booby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blue-footed Booby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brown Booby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-footed Booby",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gray-breasted Martin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blue Mockingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Northern Mockingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "California Condor",
+          "tier": "rare"
+        },
+        {
+          "answer": "Magnificent Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lucifer Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Broad-tailed Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Allen's Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Broad-billed Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cinnamon Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Violet-crowned Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brown Creeper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clapper Rail",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bumblebee Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eastern Bluebird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Western Bluebird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mountain Bluebird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Blackbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-winged Blackbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-headed Blackbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rusty Blackbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-nosed Albatross",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-capped Albatross",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wandering Albatross",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-footed Albatross",
+          "tier": "rare"
+        },
+        {
+          "answer": "Short-tailed Albatross",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-billed Magpie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-billed Magpie",
+          "tier": "rare"
+        },
+        {
+          "answer": "Osprey",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mangrove Cuckoo",
+          "tier": "rare"
+        },
+        {
+          "answer": "Anna's Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mangrove Swallow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wood Stork",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ring-necked Duck",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ring-necked Pheasant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-necked Stint",
+          "tier": "rare"
+        },
+        {
+          "answer": "Parasitic Jaeger",
+          "tier": "rare"
+        },
+        {
+          "answer": "Long-tailed Jaeger",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kelp Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ringed Kingfisher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Amazon Kingfisher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Green Kingfisher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Harlequin Duck",
+          "tier": "rare"
+        },
+        {
+          "answer": "Franklin's Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clark's Nutcracker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-shouldered Hawk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Western Screech-Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eastern Screech-Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Long-eared Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Short-eared Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-eared Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dusky Grouse",
+          "tier": "rare"
+        },
+        {
+          "answer": "White Ibis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scarlet Ibis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glossy Ibis",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-faced Ibis",
+          "tier": "rare"
+        },
+        {
+          "answer": "Long-toed Stint",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Dipper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hermit Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wood Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dusky Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Song Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clay-colored Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-legged Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Varied Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aztec Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-collared Swift",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-headed Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acorn Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gila Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Golden-fronted Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Great Spotted Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ladder-backed Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hairy Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arizona Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-headed Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Three-toed Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-backed Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ivory-billed Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Collared Forest-Falcon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Peregrine Falcon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nelson's Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mallard",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chuck-will's-widow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Belted Kingfisher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Woodcock",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Woodcock",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brown-chested Martin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sinaloa Wren",
+          "tier": "rare"
+        },
+        {
+          "answer": "Willow Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wood Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dusky Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arctic Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Olive Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Worm-eating Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Golden-winged Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blue-winged Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-and-white Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tennessee Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orange-crowned Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Nashville Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Virginia's Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Connecticut Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mourning Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kentucky Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hooded Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cape May Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Magnolia Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bay-breasted Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chestnut-sided Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Palm Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pine Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Prairie Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hermit Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fan-tailed Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Golden-crowned Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Canada Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wilson's Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-faced Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mottled Duck",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Collared-Dove",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mottled Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lucy's Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Least Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Large-billed Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gull-billed Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Caspian Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-winged Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Common Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Arctic Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Royal Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sandwich Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Elegant Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Burrowing Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Crescent-chested Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-bellied Whistling-Duck",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-throated Loon",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-throated Swift",
+          "tier": "rare"
+        },
+        {
+          "answer": "Blue-throated Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lewis's Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-bellied Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-throated Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-throated Blue Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-throated Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-throated Gray Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-throated Green Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-throated Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-throated Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-throated Bunting",
+          "tier": "rare"
+        },
+        {
+          "answer": "Trumpeter Swan",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tufted Duck",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bare-throated Tiger-Heron",
+          "tier": "rare"
+        },
+        {
+          "answer": "Northern Harrier",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orange-billed Nightingale-Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-headed Nightingale-Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cackling Goose",
+          "tier": "rare"
+        },
+        {
+          "answer": "Northern Pygmy-Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boreal Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ruby-throated Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Atlantic Puffin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Horned Puffin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tufted Puffin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Buff-bellied Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bahama Swallow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bahama Mockingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Curve-billed Thrasher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brown Thrasher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Long-billed Thrasher",
+          "tier": "rare"
+        },
+        {
+          "answer": "California Thrasher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sage Thrasher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ross's Goose",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ross's Gull",
+          "tier": "rare"
+        },
+        {
+          "answer": "Taiga Bean-Goose",
+          "tier": "rare"
+        },
+        {
+          "answer": "Common Goldeneye",
+          "tier": "rare"
+        },
+        {
+          "answer": "Harris's Hawk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Northern Saw-whet Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Grace's Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Harris's Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Downy Woodpecker",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sagebrush Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Barnacle Goose",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-bellied Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "European Golden-Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Golden-Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pacific Golden-Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Collared Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Snowy Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wilson's Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Common Ringed Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Piping Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Little Ringed Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mountain Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lesser Sand-Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Greater Sand-Plover",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lesser Nighthawk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Common Nighthawk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Montezuma Quail",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sooty Grouse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sooty Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Coot",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Coot",
+          "tier": "rare"
+        },
+        {
+          "answer": "Aleutian Tern",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tawny-shouldered Blackbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gunnison Sage-Grouse",
+          "tier": "rare"
+        },
+        {
+          "answer": "Monk Parakeet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Carolina Parakeet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Green Parakeet",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-winged Parakeet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Kestrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Kestrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Skylark",
+          "tier": "rare"
+        },
+        {
+          "answer": "Common Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spotted Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Green Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Solitary Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Marsh Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wood Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Upland Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Broad-billed Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sharp-tailed Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spoon-billed Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rock Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Purple Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Least Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Buff-breasted Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pectoral Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Western Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Golden-cheeked Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gray-cheeked Thrush",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brewer's Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vesper Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brewer's Blackbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black Skimmer",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lesser Goldfinch",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lawrence's Goldfinch",
+          "tier": "rare"
+        },
+        {
+          "answer": "American Goldfinch",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baikal Teal",
+          "tier": "rare"
+        },
+        {
+          "answer": "Calliope Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Greater Roadrunner",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lazuli Bunting",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rufous Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brown Shrike",
+          "tier": "rare"
+        },
+        {
+          "answer": "Northern Shrike",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sedge Wren",
+          "tier": "rare"
+        },
+        {
+          "answer": "Kamchatka Leaf Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sedge Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rufous-backed Robin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-winged Stilt",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-necked Stilt",
+          "tier": "rare"
+        },
+        {
+          "answer": "Stilt Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rufous-capped Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rufous-crowned Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tamaulipas Crow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tufted Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Olive-sided Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yellow-bellied Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Alder Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Willow Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Least Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hammond's Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gray Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dusky Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pacific-slope Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Buff-breasted Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vermilion Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dusky-capped Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ash-throated Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Great Crested Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brown-crested Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Social Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sulphur-bellied Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Variegated Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scissor-tailed Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fork-tailed Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gray-streaked Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Asian Brown Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spotted Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Dark-sided Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rufous-tailed Robin",
+          "tier": "rare"
+        },
+        {
+          "answer": "Narcissus Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Taiga Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rufous-winged Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-vented Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Orchard Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hooded Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Streak-backed Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Spot-breasted Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baltimore Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Scott's Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Double-crested Cormorant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Great Cormorant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-faced Cormorant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pelagic Cormorant",
+          "tier": "rare"
+        },
+        {
+          "answer": "Acadian Flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Great Egret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Intermediate Egret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chinese Egret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Little Egret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Snowy Egret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Reddish Egret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cattle Egret",
+          "tier": "rare"
+        },
+        {
+          "answer": "Costa's Hummingbird",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gray Silky-flycatcher",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cerulean Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Little Curlew",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eskimo Curlew",
+          "tier": "rare"
+        },
+        {
+          "answer": "Far Eastern Curlew",
+          "tier": "rare"
+        },
+        {
+          "answer": "Slender-billed Curlew",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Curlew",
+          "tier": "rare"
+        },
+        {
+          "answer": "Long-billed Curlew",
+          "tier": "rare"
+        },
+        {
+          "answer": "Curlew Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Great Auk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rufous-necked Wood-Rail",
+          "tier": "rare"
+        },
+        {
+          "answer": "Muscovy Duck",
+          "tier": "rare"
+        },
+        {
+          "answer": "Say's Phoebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ferruginous Hawk",
+          "tier": "rare"
+        },
+        {
+          "answer": "Willet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Brown Noddy",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black Noddy",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ferruginous Pygmy-Owl",
+          "tier": "rare"
+        },
+        {
+          "answer": "Carolina Chickadee",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-capped Chickadee",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mountain Chickadee",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mexican Chickadee",
+          "tier": "rare"
+        },
+        {
+          "answer": "Chestnut-backed Chickadee",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boreal Chickadee",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gray-headed Chickadee",
+          "tier": "rare"
+        },
+        {
+          "answer": "Least Grebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Pied-billed Grebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Horned Grebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Red-necked Grebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eared Grebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Western Grebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Clark's Grebe",
+          "tier": "rare"
+        },
+        {
+          "answer": "Great-winged Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Providence Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Murphy's Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Mottled Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bermuda Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-capped Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Hawaiian Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cook's Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Parkinson's Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wilson's Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "White-faced Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "European Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black-bellied Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fork-tailed Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ringed Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ashy Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Black Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Least Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Northern Gannet",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bullock's Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Townsend's Storm-Petrel",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baird's Sandpiper",
+          "tier": "rare"
+        },
+        {
+          "answer": "Townsend's Solitaire",
+          "tier": "rare"
+        },
+        {
+          "answer": "Townsend's Warbler",
+          "tier": "rare"
+        },
+        {
+          "answer": "Baird's Sparrow",
+          "tier": "rare"
+        },
+        {
+          "answer": "Sandhill Crane",
+          "tier": "rare"
+        },
+        {
+          "answer": "Altamira Oriole",
+          "tier": "rare"
+        },
+        {
+          "answer": "Loggerhead Shrike",
+          "tier": "rare"
+        },
+        {
+          "answer": "McKay's Bunting",
+          "tier": "rare"
+        },
+        {
+          "answer": "Eurasian Jackdaw",
+          "tier": "rare"
+        },
+        {
+          "answer": "Glaucous Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "King Eider",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Eider",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ruffed Grouse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-browed Albatross",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Goshawk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Glaucous-winged Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-browed Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-browed Bunting",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American Bittern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow Bittern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Least Bittern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Le Conte's Thrasher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Le Conte's Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eastern Meadowlark",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Western Meadowlark",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Forster's Tern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Willow Ptarmigan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rock Ptarmigan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-tailed Ptarmigan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slaty-backed Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stygian Owl",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crowned Slaty Flycatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Streaked Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cory's Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cape Verde Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pink-footed Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Flesh-footed Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Great Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wedge-tailed Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sooty Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Short-tailed Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Manx Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-vented Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barolo Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bridled Tern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Buff-collared Nightjar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray Nightjar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eastern Yellow Wagtail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Citrine Wagtail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray Wagtail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White Wagtail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eared Quetzal",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Redwing",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-breasted Nuthatch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-breasted Nuthatch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pygmy Nuthatch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brown-headed Nuthatch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-eyed Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thick-billed Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bell's Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-capped Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-throated Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Blue-headed Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Warbling Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Philadelphia Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-eyed Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-green Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yucatan Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Light-mantled Albatross",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Colima Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Corn Crake",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Paint-billed Crake",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Saltmarsh Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Lapwing",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pinyon Jay",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fulvous Whistling-Duck",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Spectacled Eider",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Roseate Tern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hepatic Tanager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Summer Tanager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scarlet Tanager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Western Tanager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Flame-colored Tanager",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Whiskered Tern",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Whiskered Screech-Owl",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-whiskered Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-whiskered Bulbul",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brandt's Cormorant",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray Catbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dark-eyed Junco",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-eyed Junco",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bridled Titmouse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oak Titmouse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Juniper Titmouse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tufted Titmouse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-crested Titmouse",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tree Pipit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Olive-backed Pipit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-throated Pipit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American Pipit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-cheeked Pintail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Pintail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Great Skua",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "South Polar Skua",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American Avocet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rosy-faced Lovebird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Chaffinch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-chinned Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-chinned Hummingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hutton's Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-chinned Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Terek Sandpiper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray-tailed Tattler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wandering Tattler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dunlin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black Guillemot",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pigeon Guillemot",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-tailed Godwit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bar-tailed Godwit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Marbled Godwit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Barrow's Goldeneye",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hooded Merganser",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Merganser",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-breasted Merganser",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Band-rumped Storm-Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-rumped Sandpiper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cordilleran Flycatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pechora Pipit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-rumped Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurasian Bullfinch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wedge-rumped Storm-Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crimson-collared Grosbeak",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow Grosbeak",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rose-breasted Grosbeak",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-headed Grosbeak",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Blue Grosbeak",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pine Grosbeak",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Evening Grosbeak",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pileated Woodpecker",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Redstart",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American Redstart",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Painted Redstart",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Slate-throated Redstart",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Greater Scaup",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lesser Scaup",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Audubon's Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Audubon's Oriole",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurasian Wigeon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American Wigeon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bonaparte's Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurasian Hoopoe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Grackle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Boat-tailed Grackle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Great-tailed Grackle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Prothonotary Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bobolink",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Shoveler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Bobwhite",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Killdeer",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Spotted Redshank",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Redshank",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antillean Nighthawk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Antillean Palm-Swift",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crested Caracara",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Roseate Spoonbill",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Shiny Cowbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bronzed Cowbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brown-headed Cowbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Surf Scoter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-winged Scoter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Scoter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black Scoter",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Jabiru",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sharp-shinned Hawk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-legged Kittiwake",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-legged Kittiwake",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sabine's Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bohemian Waxwing",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cedar Waxwing",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Leach's Storm-Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurasian Oystercatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "American Oystercatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black Oystercatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Myna",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurasian Siskin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pine Siskin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thayer's Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Wheatear",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Greater Pewee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Western Wood-Pewee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eastern Wood-Pewee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cuban Pewee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Whooper Swan",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Fulmar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sanderling",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Zenaida Dove",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Moorhen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nuttall's Woodpecker",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wilson's Phalarope",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-necked Phalarope",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red Phalarope",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Long-billed Murrelet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Marbled Murrelet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Guadalupe Murrelet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ancient Murrelet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Chiffchaff",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chihuahuan Raven",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Canvasback",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Pochard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Belcher's Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Williamson's Sapsucker",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-bellied Sapsucker",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-breasted Sapsucker",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red Crossbill",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-winged Crossbill",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Green-tailed Towhee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Spotted Towhee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eastern Towhee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Canyon Towhee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "California Towhee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Redpoll",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hoary Redpoll",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lesser Whitethroat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chukar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Whimbrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Laysan Albatross",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Greenshank",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ruddy Turnstone",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black Turnstone",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oriental Scops-Owl",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tropical Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Couch's Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thick-billed Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Western Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eastern Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Loggerhead Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Blue-gray Gnatcatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "California Gnatcatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-tailed Gnatcatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-capped Gnatcatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Veery",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gadwall",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Trindade Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tricolored Heron",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tricolored Blackbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Jacana",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Golden-crowned Kinglet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ruby-crowned Kinglet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oriental Greenfinch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Steller's Eider",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Steller's Sea-Eagle",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Steller's Jay",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bufflehead",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Greater Yellowlegs",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lesser Yellowlegs",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gyrfalcon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bachman's Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bachman's Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurasian Dotterel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Woodhouse's Scrub-Jay",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bristle-thighed Curlew",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eurasian Wryneck",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Plumbeous Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hawfinch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Purple Gallinule",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Gallinule",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Semipalmated Plover",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Semipalmated Sandpiper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Murre",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thick-billed Murre",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-naped Sapsucker",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Verdin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Anhinga",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scaly-naped Pigeon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Elegant Trogon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Swainson's Hawk",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-cockaded Woodpecker",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stonechat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Swainson's Thrush",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fieldfare",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Swainson's Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Razorbill",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hudsonian Godwit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bewick's Wren",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lapland Longspur",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Chestnut-collared Longspur",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Smith's Longspur",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "McCown's Longspur",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Brambling",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Short-billed Dowitcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Long-billed Dowitcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Eyebrowed Thrush",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sprague's Pipit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Garganey",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scaly-breasted Munia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Magnificent Frigatebird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Great Frigatebird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lesser Frigatebird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bluethroat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Smew",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray-crowned Yellowthroat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Yellowthroat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Parula",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tropical Parula",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Siberian Accentor",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Graylag Goose",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Falcated Duck",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Plain Chachalaca",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gambel's Quail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Himalayan Snowcock",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fea's Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Stejneger's Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bulwer's Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Buller's Shearwater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Swinhoe's Storm-Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tristram's Storm-Petrel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-tailed Tropicbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-billed Tropicbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-tailed Tropicbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neotropic Cormorant",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Purple Swamphen",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Sungrebe",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Limpkin",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Surfbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Temminck's Stint",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Oriental Pratincole",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pomarine Jaeger",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dovekie",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kittlitz's Murrelet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scripps's Murrelet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Craveri's Murrelet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cassin's Auklet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Parakeet Auklet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Least Auklet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Whiskered Auklet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crested Auklet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rhinoceros Auklet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Heermann's Gull",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Flammulated Owl",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Boobook",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Pauraque",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Poorwill",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Vaux's Swift",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-throated Needletail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Green Violetear",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Plain-capped Starthroat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bahama Woodstar",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Berylline Hummingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Xantus's Hummingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Aplomado Falcon",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nanday Parakeet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Beardless-Tyrannulet",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Greenish Elaenia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-crested Elaenia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nutting's Flycatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "La Sagra's Flycatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Great Kiskadee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Piratic Flycatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cassin's Kingbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Masked Tityra",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Gray-collared Becard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rose-throated Becard",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cassin's Vireo",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bushtit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pallas's Leaf Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Wrentit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lanceolated Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Siberian Rubythroat",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-flanked Bluetail",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mugimaki Flycatcher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bicknell's Thrush",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bendire's Thrasher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Crissal Thrasher",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Phainopepla",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ovenbird",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Louisiana Waterthrush",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Northern Waterthrush",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "MacGillivray's Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Kirtland's Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Blackburnian Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Blackpoll Warbler",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Western Spindalis",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Red-legged Honeycreeper",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bananaquit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Yellow-faced Grassquit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Black-faced Grassquit",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "White-collared Seedeater",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Abert's Towhee",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Botteri's Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Cassin's Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Worthen's Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Henslow's Sparrow",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pallas's Bunting",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pyrrhuloxia",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dickcissel",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Common Rosefinch",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Pallas's Rosefinch",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Cassin's Finch",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a chemical element.",
+      "answers": [
+        {
+          "answer": "Lead",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Gold",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Silver",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Iron",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Carbon",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Copper",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Oxygen",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Tin",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Platinum",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Mercury",
+          "tier": "plankton"
+        },
+        {
+          "answer": "Aluminum",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Silicon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Hydrogen",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sodium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Uranium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Calcium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nickel",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Nitrogen",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Zinc",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Neon",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Potassium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Lithium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Titanium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Magnesium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Sulfur",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chlorine",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Helium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Cobalt",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Phosphorus",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Plutonium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Arsenic",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Iodine",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Palladium",
+          "tier": "schooler"
+        },
+        {
+          "answer": "Chromium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Manganese",
+          "tier": "rare"
+        },
+        {
+          "answer": "Boron",
+          "tier": "rare"
+        },
+        {
+          "answer": "Selenium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Xenon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Radon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Beryllium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Argon",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cadmium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Radium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thorium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Krypton",
+          "tier": "rare"
+        },
+        {
+          "answer": "Molybdenum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Iridium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Barium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Wolfram",
+          "tier": "rare"
+        },
+        {
+          "answer": "Fluorine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bismuth",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gallium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Strontium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Vanadium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Antimony",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rhodium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Polonium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cesium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Zirconium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tantalum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Bromine",
+          "tier": "rare"
+        },
+        {
+          "answer": "Indium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Germanium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Niobium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Neodymium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Thallium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Rubidium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Cerium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Ruthenium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Tellurium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Yttrium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Gadolinium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Technetium",
+          "tier": "rare"
+        },
+        {
+          "answer": "Lanthanum",
+          "tier": "rare"
+        },
+        {
+          "answer": "Osmium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Europium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Americium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Samarium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hafnium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rhenium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Erbium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Scandium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Ytterbium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Neptunium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Promethium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dysprosium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Terbium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Curium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Actinium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Californium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Praseodymium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Holmium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Astatine",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Thulium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Protactinium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lutetium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Francium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Einsteinium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Berkelium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Lawrencium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Seaborgium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Fermium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Mendelevium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nobelium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Rutherfordium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Dubnium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Bohrium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Hassium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Meitnerium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Darmstadtium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Roentgenium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Copernicium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Nihonium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Flerovium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Moscovium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Livermorium",
+          "tier": "deepcut"
+        },
+        {
+          "answer": "Tennessine",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        },
+        {
+          "answer": "Oganesson",
+          "tier": "krillion",
+          "note": "An obscure deep-cut pick in this category."
+        }
+      ]
+    }
+  ]
+}
