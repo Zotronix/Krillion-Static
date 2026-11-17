@@ -1,0 +1,100 @@
+{
+  "gameId": 124,
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a country with the letter B in its name",
+      "answers": []
+    },
+    {
+      "id": "p2",
+      "text": "Name a fictional weapon",
+      "answers": []
+    },
+    {
+      "id": "p3",
+      "text": "Name a job focused on repairing physical things",
+      "answers": []
+    },
+    {
+      "id": "p4",
+      "text": "Name an author who has a book that has sold over 500,000 copies",
+      "answers": []
+    },
+    {
+      "id": "p5",
+      "text": "Name a sport involving a board (no board games, tabletop games or esports)",
+      "answers": []
+    },
+    {
+      "id": "p6",
+      "text": "Name a chemical element whose name has 6 or fewer letters",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Name a part of the body above the waist, excluding the head",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Play another dive",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Learn from three saved questions",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Guides for your next dive",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Turn one missed answer into a useful reminder",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Krillion tools & guides",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Recent answer sheets",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "How this page works",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Frequently asked questions",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Answers",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Guides & tools",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "Play options",
+      "answers": []
+    },
+    {
+      "id": "p7",
+      "text": "About",
+      "answers": []
+    }
+  ]
+}
