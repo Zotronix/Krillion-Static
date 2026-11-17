@@ -13,7 +13,7 @@ HEADERS = {
     "User-Agent": "KrillionStaticExporter/1.0 (+https://github.com)"
 }
 
-MAX_TOTAL_ANSWERS = 1000
+MAX_TOTAL_ANSWERS = 2000
 MIN_PER_LETTER = 3
 
 TIER_RATIOS = {
