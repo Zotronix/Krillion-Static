@@ -1,16 +1,15 @@
-name: Fetch Daily Krillion Questions
+name: Update Static Krillion JSON
 
 on:
   schedule:
-    # Runs every day at 06:15 UTC (1:15 AM EST / 2:15 AM EDT)
     - cron: "15 6 * * *"
-  workflow_dispatch: # Allows manual runs from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  fetch-and-commit:
+  build-json:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,13 +24,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run Krillion scraper
+      - name: Generate latest.json and daily/game_N.json
         run: python scripts/fetch_krillion.py
 
-      - name: Commit and push updated JSON
+      - name: Commit JSON files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@://github.com"
-          git add data/
-          git diff --staged --quiet || git commit -m "Update Krillion daily questions ($(date -u +'%Y-%m-%d'))"
+          git add latest.json daily/
+          git diff --staged --quiet || git commit -m "Update Krillion game JSON"
           git push
