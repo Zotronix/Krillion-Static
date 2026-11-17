@@ -16,8 +16,6 @@ HEADERS = {
 MAX_TOTAL_ANSWERS = 1000
 MIN_PER_LETTER = 3
 
-# Target ratios summing to 1.00 (10-15% plankton, 5-10% tooclever, 30-40% schooler,
-# ~10% rare, 30-40% deepcut, 2-5% krillion)
 TIER_RATIOS = {
     "plankton": 0.125,
     "tooclever": 0.075,
@@ -87,7 +85,6 @@ def compute_tier_quotas(grouped: dict[str, list[dict]], max_total: int) -> dict[
                 next_active.append(t)
 
         if allocated_this_round == 0:
-            # Fill any final 1-2 rounding leftovers into tiers that still have room
             for t in next_active:
                 if remaining_slots <= 0:
                     break
@@ -145,11 +142,14 @@ def format_answers(raw_answers: list[list], seed: int | None = None) -> list[dic
         if not isinstance(entry, list) or len(entry) < 2:
             continue
 
-        ans_text = str(entry).strip()
-        tier_slug = str(entry).strip().lower()
-        note = str(entry).strip() if len(entry) > 3 and entry else ""
+        ans_text = str(entry[0]).strip()
+        tier_slug = str(entry[1]).strip().lower()
+        note = str(entry[3]).strip() if len(entry) > 3 and entry[3] else ""
 
-        if not ans_text or (ans_text.lower(), tier_slug) in seen:
+        if not ans_text or tier_slug not in TIER_ORDER:
+            continue
+
+        if (ans_text.lower(), tier_slug) in seen:
             continue
         seen.add((ans_text.lower(), tier_slug))
 
@@ -160,12 +160,12 @@ def format_answers(raw_answers: list[list], seed: int | None = None) -> list[dic
         if note:
             item["note"] = note
 
-        grouped.setdefault(tier_slug, []).append(item)
+        grouped[tier_slug].append(item)
 
     quotas = compute_tier_quotas(grouped, MAX_TOTAL_ANSWERS)
 
     formatted = []
-    for tier_slug in sorted(grouped.keys(), key=lambda t: TIER_ORDER.get(t, 99)):
+    for tier_slug in sorted(grouped.keys(), key=lambda t: TIER_ORDER[t]):
         tier_items = grouped[tier_slug]
         quota = quotas.get(tier_slug, 0)
         sampled = sample_with_alphabet_coverage(tier_items, quota, MIN_PER_LETTER)
@@ -189,7 +189,6 @@ def build_game_json() -> dict:
         prompt_text = card.get("data-answer-text") or card.find("h2").get_text(" ", strip=True)
 
         raw_answers = load_card_roster(card)
-        # Seed with gameId + prompt index so reruns on the same day produce consistent JSON
         formatted_answers = format_answers(raw_answers, seed=game_id * 100 + idx)
 
         prompts.append({
@@ -207,7 +206,6 @@ def build_game_json() -> dict:
 if __name__ == "__main__":
     game_data = build_game_json()
 
-    # Compact JSON formatting keeps the 7,000-answer file small (~250-350 KB total)
     with open("latest.json", "w", encoding="utf-8") as f:
         json.dump(game_data, f, separators=(",", ":"), ensure_ascii=False)
 
@@ -217,5 +215,8 @@ if __name__ == "__main__":
         json.dump(game_data, f, separators=(",", ":"), ensure_ascii=False)
 
     for p in game_data["prompts"]:
-        print(f"{p['id']}: {p['text']} -> {len(p['answers'])} answers")
+        counts = defaultdict(int)
+        for a in p["answers"]:
+            counts[a["tier"]] += 1
+        print(f"{p['id']}: total={len(p['answers'])} -> {dict(counts)}")
     print(f"Saved gameId={game_data['gameId']} to latest.json and {daily_path}")
