@@ -3,6 +3,7 @@ import os
 import random
 import re
 import time
+from datetime import date
 from collections import defaultdict
 from urllib.parse import urljoin
 import requests
@@ -198,7 +199,9 @@ def build_game_json() -> dict:
         })
 
     return {
-        "gameId": game_id,
+        "dayNumber": game_id,
+        "date": date.today().isoformat(),
+        "source": "Krillion",
         "prompts": prompts,
     }
 
