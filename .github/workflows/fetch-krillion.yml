@@ -36,4 +36,6 @@ jobs:
           git diff --staged --quiet || git commit -m "Update Krillion game JSON"
           git push
       - name: Purge JSDelivr
-      run: curl -s "https://purge.jsdelivr.net/gh/Zotronix/Krillion-Static@main/latest.json"
+        run: |
+          sleep 15
+          curl -s "https://purge.jsdelivr.net/gh/Zotronix/Krillion-Static@main/latest.json"
