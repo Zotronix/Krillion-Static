@@ -35,3 +35,5 @@ jobs:
           git add latest.json daily/
           git diff --staged --quiet || git commit -m "Update Krillion game JSON"
           git push
+      - name: Purge JSDelivr
+      run: curl -s "https://purge.jsdelivr.net/gh/Zotronix/Krillion-Static@main/latest.json"
