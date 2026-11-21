@@ -3,7 +3,7 @@
 A browser-only recreation of the Krillion dive: seven prompts, 25 seconds each, six rarity
 tiers, typo correction, a pixel ocean that actually descends, and a score report.
 
-**One page, no server, no build required to play.** `index.html` is standalone: the styles,
+**One page, no server, no build required to play.** `krillion.html` is standalone: the styles,
 the whole app and the bundled prompt packs are inlined, so opening the file from disk works.
 Daily and Unlimited both live on that page and switch in place.
 
