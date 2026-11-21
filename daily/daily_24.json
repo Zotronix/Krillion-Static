@@ -1,0 +1,3018 @@
+{
+  "gameId": 24,
+  "sourceUrl": "https://krilliongame.com/krillion-answers/2026-08-08/",
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a country that no longer exists",
+      "answers": [
+        {
+          "answer": "Czechoslovakia",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Soviet Union",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Yugoslavia",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Burma",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Roman Empire",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "British Empire",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "East Germany",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Ottoman Empire",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Persia",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "West Germany",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Prussia",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Assyria",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Babylonia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Carthage",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Gaul",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Holy Roman Empire",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Inca Empire",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mesopotamia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Phoenicia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Rhodesia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Siam",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tibet",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Zaire",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Austria-Hungary",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Byzantine Empire",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ceylon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mongol Empire",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "South Vietnam",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tsarist Russia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Aztec Empire",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Confederacy",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mughal Empire",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sparta",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Abyssinia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Basutoland",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dahomey",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "East Pakistan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Free City of Danzig",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gold Coast",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hejaz",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Katanga",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mali Empire",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "New Granada",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Orange Free State",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Papal States",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Republic of Texas",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sardinia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tanganyika",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "United Arab Republic",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Vermont Republic",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Weimar Republic",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Zanzibar",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bechuanaland",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Etruria",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gran Colombia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kingdom of Hawaii",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Manchukuo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Newfoundland",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Polish-Lithuanian Commonwealth",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Republic of Venice",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Transvaal",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Upper Volta",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Biafra",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kingdom of Kongo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "North Vietnam",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sikkim",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Two Sicilies",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bohemia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "North Yemen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Songhai Empire",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nyasaland",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "South Yemen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Neutral Moresnet",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a horse breed",
+      "answers": [
+        {
+          "answer": "Arabian",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Clydesdale",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Mustang",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Shetland pony",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Thoroughbred",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Friesian",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Lipizzaner",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Appaloosa",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Palomino",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Quarter horse",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Shire",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pinto",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Andalusian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Belgian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Dutch Warmblood",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Gypsy Vanner",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Haflinger",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Icelandic horse",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Miniature horse",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Paint horse",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Standardbred",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tennessee Walker",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Welsh pony",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Hanoverian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Morgan",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Percheron",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Akhal-Teke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Barb",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Camargue",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dales pony",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Exmoor pony",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Falabella",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hackney",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Irish Sport Horse",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kathiawari",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lusitano",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Marwari",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "New Forest pony",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Oldenburg",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Paso Fino",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rocky Mountain Horse",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Saddlebred",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Trakehner",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Anglo-Arab",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Breton",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Caspian",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dartmoor pony",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Fjord",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Highland pony",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Knabstrupper",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Missouri Fox Trotter",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nokota",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Peruvian Paso",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Selle Francais",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ardennes",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cleveland Bay",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Holsteiner",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mongolian horse",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pony of the Americas",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Suffolk Punch",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Connemara",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Przewalski's horse",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Criollo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Curly horse",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sorraia",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a Japanese dish",
+      "answers": [
+        {
+          "answer": "Ramen",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Sushi",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Tempura",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Teriyaki",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Okonomiyaki",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Onigiri",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Edamame",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Gyoza",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Katsu",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Miso soup",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Sashimi",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Udon",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Yakitori",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Mochi",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Soba",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bento",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "California roll",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Donburi",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Karaage",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Maki",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nigiri",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Shabu-shabu",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Takoyaki",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Unagi",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Yakiniku",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Curry rice",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Somen",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Teppanyaki",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Yakisoba",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sukiyaki",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tonkotsu",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Agedashi tofu",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Basashi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chahan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dango",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hayashi rice",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Inarizushi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kaiseki",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Melonpan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nabe",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ochazuke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shiokara",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Taiyaki",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Umeboshi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Wagyu beef",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Zaru soba",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Anpan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Champon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dorayaki",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hitsumabushi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kare pan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Monjayaki",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nattō",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Oden",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shirako",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tamagoyaki",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chawanmushi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hiyayakko",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Motsunabe",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Omurice",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tsukemen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chirashi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hoto",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Onsen tamago",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Fugu",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a Shrek character",
+      "answers": [
+        {
+          "answer": "Donkey",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Fiona",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Shrek",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Lord Farquaad",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Dragon",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Gingerbread Man",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pinocchio",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Snow White",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Puss in Boots",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Arthur",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Big Bad Wolf",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cinderella",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Fairy Godmother",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Goldilocks",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Humpty Dumpty",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Jack Horner",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "King Harold",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Magic Mirror",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Perrito",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Queen Lillian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Rapunzel",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sleeping Beauty",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Muffin Man",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Kitty Softpaws",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Prince Charming",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Rumpelstiltskin",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Three Little Pigs",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Three Blind Mice",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Brogan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Captain Hook",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Doris",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Fifi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lancelot",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mabel",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pied Piper",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Dronkeys",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cookie",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mama Luna",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Ogre Triplets",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Merlin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Three Bears",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mongo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Thelonious",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Monsieur Hood",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Death",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a space mission or program",
+      "answers": [
+        {
+          "answer": "Apollo",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Apollo 11",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Artemis",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Vostok",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Apollo 13",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Hubble",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "International Space Station",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "James Webb",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Mars Rover",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Space Shuttle",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Voyager",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Sputnik",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cassini",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Galileo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Juno",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Kepler",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mercury",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "New Horizons",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Opportunity",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Perseverance",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Skylab",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Viking",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Challenger",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Gemini",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mir",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pioneer",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Soyuz",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Columbia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Starlink",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Curiosity",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Starship",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Apollo-Soyuz",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "BepiColombo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chandra",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "DART",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Europa Clipper",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gaia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hayabusa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ingenuity",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "JUICE",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lucy",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Magellan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "New Shepard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Odysseus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Parker Solar Probe",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ranger",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Salyut",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "TESS",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ulysses",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Vanguard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Blue Ghost",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chandrayaan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dawn",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "ExoMars",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Genesis",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "InSight",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Luna",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mangalyaan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Orion",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pathfinder",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rosetta",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shenzhou",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tiangong",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Vega",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Buran",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chang'e",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Deep Impact",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Explorer 1",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Inspiration4",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lunar Gateway",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mariner",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "OSIRIS-REx",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Psyche",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "SOHO",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tianwen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Venera",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Constellation",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mars Express",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Spirit",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Voskhod",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Crew Dragon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "MAVEN",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Spitzer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Messenger",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Stardust",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Starliner",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Surveyor",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Zond",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a golfer who has won a major championship",
+      "answers": [
+        {
+          "answer": "Arnold Palmer",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Jack Nicklaus",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Phil Mickelson",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Rory McIlroy",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Tiger Woods",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Bobby Jones",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Greg Norman",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Ben Hogan",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Dustin Johnson",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Gary Player",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Jon Rahm",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Scottie Scheffler",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tom Watson",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Brooks Koepka",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Jordan Spieth",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bryson DeChambeau",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Justin Thomas",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Aaron Rai",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ben Crenshaw",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cameron Smith",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ernie Els",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Fred Couples",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Haeran Ryu",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "J.J. Spaun",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lee Trevino",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Michelle Wie",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nancy Lopez",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Padraig Harrington",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ryan Fox",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sam Snead",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Vijay Singh",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Wyndham Clark",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Xander Schauffele",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Adam Scott",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bernhard Langer",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Collin Morikawa",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Hideki Matsuyama",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Jason Day",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lexi Thompson",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mike Weir",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nelly Korda",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Patrick Reed",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sergio Garcia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Annika Sorenstam",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Billy Casper",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Jim Furyk",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nick Faldo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Paul Azinger",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Seve Ballesteros",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Brian Harman",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "John Daly",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Payne Stewart",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Shane Lowry",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Brooke Henderson",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Johnny Miller",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bubba Watson",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Justin Rose",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Byron Nelson",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Al Geiberger",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ben Curtis",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cary Middlecoff",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Danielle Kang",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ed Furgol",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Francesco Molinari",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gary Woodland",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hal Sutton",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ian Baker-Finch",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jack Fleck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Karrie Webb",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lanny Wadkins",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mark Brooks",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nick Price",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Orville Moody",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pat Bradley",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ralph Guldahl",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sandy Lyle",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ted Ray",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Walter Burkemo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Y.E. Yang",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Zach Johnson",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Amy Alcott",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Betsy King",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Celine Boutier",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Danny Willett",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Francis Ouimet",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gay Brewer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hale Irwin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ian Woosnam",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jackie Burke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kathy Whitworth",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Larry Mize",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mark Calcavecchia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Patty Berg",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Raymond Floyd",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Scott Simpson",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Todd Hamilton",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Walter Hagen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Yani Tseng",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Andy North",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bill Rogers",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chandler Harper",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Darren Clarke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Fred Daly",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gene Littler",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hannah Green",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "In Gee Chun",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "James Braid",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Keegan Bradley",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Larry Nelson",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mark O'Meara",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Paul Lawrie",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Retief Goosen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Se Ri Pak",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tom Kite",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Wayne Grady",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Young Tom Morris",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Angel Cabrera",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bob Charles",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Charl Schwartzel",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dave Marr",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Fuzzy Zoeller",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gene Sarazen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Harry Vardon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Inbee Park",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jason Dufner",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kel Nagle",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Laura Davies",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Martin Kaymer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Paul Runyan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rich Beem",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shaun Micheel",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tom Lehman",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Webb Simpson",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Yuka Saso",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Anna Nordqvist",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bob Goalby",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Charles Coody",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dave Stockton",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Geoff Ogilvy",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Henrik Stenson",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jay Hebert",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ken Venturi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lee Janzen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Matt Fitzpatrick",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Paula Creamer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Roberto De Vicenzo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "So Yeon Ryu",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tom Weiskopf",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Willie Park",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ariya Jutanugarn",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bob Rosburg",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chick Evans",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "David Duval",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "George Archer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Henry Cotton",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jeff Sluman",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lew Worsham",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Max Faulkner",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Peter Thomson",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Stacy Lewis",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tommy Aaron",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Art Wall",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bob Tway",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Claude Harmon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "David Graham",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Georgia Hall",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Herman Keiser",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jerry Barber",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lilia Vu",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Michael Campbell",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Steve Elkington",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tommy Armour",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ashleigh Buhai",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bobby Locke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Corey Pavin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "David Toms",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Graeme McDowell",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Horton Smith",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jerry Pate",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lionel Hebert",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mickey Wright",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Steve Jones",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tommy Bolt",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bobby Nichols",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Craig Stadler",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Davis Love III",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hubert Green",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jim Barnes",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lloyd Mangrum",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Minjee Lee",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Stewart Cink",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tony Jacklin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Craig Wood",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Denny Shute",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jim Ferrier",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lorena Ochoa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Morgan Pressel",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sung Hyun Park",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tony Lema",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cristie Kerr",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dick Mayer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jim Turnesa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lou Graham",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Trevor Immelman",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Curtis Strange",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Don January",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jimmy Demaret",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Louis Oosthuizen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Doug Ford",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jimmy Walker",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lucas Glover",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dow Finsterwald",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jin Young Ko",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lydia Ko",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jiyai Shin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "John Henry Taylor",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "John Mahaffey",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jose Maria Olazabal",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Juli Inkster",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Julius Boros",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Justin Leonard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Babe Zaharias",
+          "tier": "krillion",
+          "score": 100
+        },
+        {
+          "answer": "Old Tom Morris",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a Roald Dahl book",
+      "answers": [
+        {
+          "answer": "Charlie and the Chocolate Factory",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "James and the Giant Peach",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Matilda",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "The BFG",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Boy",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Fantastic Mr Fox",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "George's Marvellous Medicine",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "The Twits",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "The Witches",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Charlie and the Great Glass Elevator",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Danny, the Champion of the World",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Esio Trot",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Revolting Rhymes",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Enormous Crocodile",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Giraffe and the Pelly and Me",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Magic Finger",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Wonderful Story of Henry Sugar",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ah, Sweet Mystery of Life",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dirty Beasts",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Going Solo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kiss Kiss",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Over to You",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rhyme Stew",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Skin and Other Stories",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tales of the Unexpected",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Someone Like You",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Gremlins",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sometime Never",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Mildenhall Treasure",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Switch Bitch",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Minpins",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Vicar of Nibbleswicke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "My Uncle Oswald",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    }
+  ]
+}

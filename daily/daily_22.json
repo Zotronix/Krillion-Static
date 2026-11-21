@@ -1,0 +1,2288 @@
+{
+  "gameId": 22,
+  "sourceUrl": "https://krilliongame.com/krillion-answers/2026-08-06/",
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name an African capital city",
+      "answers": [
+        {
+          "answer": "Cairo",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Nairobi",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Cape Town",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Abidjan",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Cotonou",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Ouagadougou",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Abuja",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Dakar",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Kampala",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pretoria",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Rabat",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tripoli",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Accra",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Khartoum",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tunis",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Addis Ababa",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Kinshasa",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Algiers",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Antananarivo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bamako",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Conakry",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Freetown",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Gaborone",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Harare",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Juba",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Kigali",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lilongwe",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Maputo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ndjamena",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Windhoek",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Yaounde",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Brazzaville",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lome",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mogadishu",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Niamey",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Luanda",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Monrovia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lusaka",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Asmara",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bangui",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Djibouti City",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gitega",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Libreville",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Malabo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nouakchott",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Port Louis",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sao Tome",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Victoria",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Yamoussoukro",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Banjul",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dodoma",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lobamba",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Maseru",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Porto-Novo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bissau",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mbabane",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Praia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bujumbura",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Moroni",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bloemfontein",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a type of waterfowl",
+      "answers": [
+        {
+          "answer": "Canada goose",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Duck",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Goose",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Mallard",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Swan",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Black swan",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Mandarin duck",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Muscovy duck",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pekin duck",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Teal",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Wood duck",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Barnacle goose",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Canvasback",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Egyptian goose",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Gadwall",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Loon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Merganser",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pintail",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Redhead",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Scaup",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Trumpeter swan",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Wigeon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Brant",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Coot",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Eider",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Goldeneye",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Moorhen",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Shoveler",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bufflehead",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Grebe",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Snow goose",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Greylag goose",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "American black duck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bar-headed goose",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cackling goose",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Garganey",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Harlequin duck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Long-tailed duck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nene",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pochard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ruddy duck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Scoter",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tufted duck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Whistling duck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bewick's swan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shelduck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tundra swan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "White-fronted goose",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Smew",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Whooper swan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Swan goose",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Torrent duck",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a Mexican dish",
+      "answers": [
+        {
+          "answer": "Burrito",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Enchilada",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Guacamole",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Nachos",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Quesadilla",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Taco",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Birria",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Elote",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Mole",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Carne asada",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Fajitas",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Salsa",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tamale",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Chimichanga",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Fish tacos",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Taquitos",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Churros",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Flan",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tortas",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tostada",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Al pastor",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Barbacoa",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Carnitas",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Empanada",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Flautas",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Gordita",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Huevos rancheros",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Menudo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pico de gallo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Refried beans",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sope",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Taco salad",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ceviche",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pozole",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tortilla soup",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Chilaquiles",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tres leches",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Chile relleno",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Aguachile",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cabrito",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Enfrijoladas",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Huarache",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Machaca",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pambazo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Queso fundido",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sincronizada",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tacos de canasta",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Albondigas",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Caldo de pollo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Esquites",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Molletes",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tinga",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Arroz con leche",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Camarones a la diabla",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tlayuda",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cemita",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chapulines",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chile en nogada",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cochinita pibil",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Escamoles",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a Disney villain",
+      "answers": [
+        {
+          "answer": "Captain Hook",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Jafar",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Maleficent",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Scar",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Ursula",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Cruella de Vil",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Bruce",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Chernabog",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Evil Queen",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Frollo",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Gaston",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Hades",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Mother Gothel",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Prince Hans",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Queen of Hearts",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bellwether",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Clayton",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Davy Jones",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Governor Ratcliffe",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Hopper",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Kaa",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lady Tremaine",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Oogie Boogie",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Prince John",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Randall",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Shan Yu",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tamatoa",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Yzma",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Zurg",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Dr. Doofenshmirtz",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "King Candy",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lotso",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Shere Khan",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Dr. Facilier",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sid",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Syndrome",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Alameda Slim",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Barbossa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Charles Muntz",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dr. Calico",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Edgar",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Flintheart Glomgold",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gantu",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Honest John",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "King Magnifico",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lucifer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Madam Mim",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Namaari",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Percival McLeach",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Queen Narissa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ratigan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sabor",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Te Ka",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Willie the Giant",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Zira",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Amos Slade",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Big Bad Wolf",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chick Hicks",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Duke of Weselton",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ercole",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Horned King",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Madame Medusa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Negaduck",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pete",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Scroop",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Ringmaster",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "AUTO",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bill Cipher",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Commander Rourke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ernesto de la Cruz",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Magica De Spell",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Professor Callaghan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sheriff of Nottingham",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bowler Hat Guy",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Man",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Si and Am",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Miles Axlerod",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Stinky Pete",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Monstro",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Stromboli",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Morgana",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sykes",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Coachman",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a geometric shape",
+      "answers": [
+        {
+          "answer": "Circle",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Rectangle",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Square",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Triangle",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Star",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Torus",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Cone",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Diamond",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Heart",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Octagon",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pentagon",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Rhombus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Sphere",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Trapezoid",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Crescent",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Hexagon",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Oval",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pyramid",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cube",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cylinder",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cross",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Decagon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ellipse",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Hemisphere",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Icosahedron",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Kite",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nonagon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Octahedron",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Parallelogram",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Quadrilateral",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Right triangle",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Scalene triangle",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tetrahedron",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cuboid",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Dodecagon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Equilateral triangle",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Heptagon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Isosceles triangle",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pentagram",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Semicircle",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Dodecahedron",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Polygon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Prism",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Annulus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cardioid",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ellipsoid",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Frustum",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Helix",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Icosagon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Klein bottle",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lemniscate",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mobius strip",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Paraboloid",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rhombicosidodecahedron",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sector",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Teardrop",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Vesica piscis",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Arrow",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chevron",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hendecagon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Myriagon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rhomboid",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Spiral",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tridecagon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chiliagon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Heptadecagon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Squircle",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hexagram",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hyperboloid",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Reuleaux triangle",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a country that has hosted the FIFA World Cup",
+      "answers": [
+        {
+          "answer": "Brazil",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "France",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Germany",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "United States",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Qatar",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Argentina",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "England",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Italy",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Japan",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Mexico",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Russia",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "South Africa",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "South Korea",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Spain",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Canada",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Uruguay",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sweden",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Switzerland",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chile",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a famous poet",
+      "answers": [
+        {
+          "answer": "Edgar Allan Poe",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Maya Angelou",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Robert Frost",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "William Shakespeare",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Emily Dickinson",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Dr. Seuss",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Homer",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Rumi",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Amanda Gorman",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Dante",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "John Keats",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Langston Hughes",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Rupi Kaur",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Shel Silverstein",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "T.S. Eliot",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Walt Whitman",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "John Milton",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Lord Byron",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Sylvia Plath",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "William Blake",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "William Wordsworth",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Alfred Tennyson",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Charles Bukowski",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Dorothy Parker",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "E.E. Cummings",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Geoffrey Chaucer",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Henry Wadsworth Longfellow",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Khalil Gibran",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Matsuo Basho",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ogden Nash",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pablo Neruda",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Rabindranath Tagore",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Samuel Taylor Coleridge",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "William Butler Yeats",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Allen Ginsberg",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Dylan Thomas",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Elizabeth Barrett Browning",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Goethe",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Oscar Wilde",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Percy Shelley",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ralph Waldo Emerson",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sappho",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Emily Bronte",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Robert Browning",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ezra Pound",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Robert Burns",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Rudyard Kipling",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "A.E. Housman",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Billy Collins",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Carl Sandburg",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Derek Walcott",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Edna St. Vincent Millay",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Federico Garcia Lorca",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gerard Manley Hopkins",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hafiz",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "John Betjeman",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Leonard Cohen",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Marianne Moore",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nikki Giovanni",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ocean Vuong",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pam Ayres",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rainer Maria Rilke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sara Teasdale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ted Hughes",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Victor Hugo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "W.H. Auden",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Adrienne Rich",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Carol Ann Duffy",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Du Fu",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Edward Lear",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gwendolyn Brooks",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Horace",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "John Donne",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lewis Carroll",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mary Oliver",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Octavio Paz",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Petrarch",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rita Dove",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Seamus Heaney",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Thomas Hardy",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Virgil",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Wallace Stevens",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Alexander Pope",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Catullus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Elizabeth Bishop",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Joy Harjo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Li Bai",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mirza Ghalib",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Omar Khayyam",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Philip Larkin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Robert Lowell",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Spike Milligan",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Warsan Shire",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Alexander Pushkin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Charles Baudelaire",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Louise Glück",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ovid",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "William Carlos Williams",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Anna Akhmatova",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Christina Rossetti",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Wisława Szymborska",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Anne Sexton",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Arthur Rimbaud",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Enheduanna",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    }
+  ]
+}

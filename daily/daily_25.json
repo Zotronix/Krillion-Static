@@ -1,0 +1,1643 @@
+{
+  "gameId": 25,
+  "sourceUrl": "https://krilliongame.com/krillion-answers/2026-08-09/",
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a world capital city south of the equator",
+      "answers": [
+        {
+          "answer": "Buenos Aires",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Canberra",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Jakarta",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Nairobi",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Quito",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Brasilia",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cape Town",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Lima",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pretoria",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Santiago",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Wellington",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Antananarivo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bloemfontein",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Gaborone",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Harare",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Kigali",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "La Paz",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Maputo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Windhoek",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Asuncion",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Kinshasa",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Luanda",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Montevideo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lusaka",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Apia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Brazzaville",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dili",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Funafuti",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gitega",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Honiara",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lilongwe",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Maseru",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nuku'alofa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Port Louis",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sucre",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Victoria",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bujumbura",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dodoma",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mbabane",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Port Moresby",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Suva",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Moroni",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Port Vila",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Adamstown",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a lizard species",
+      "answers": [
+        {
+          "answer": "Chameleon",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Gecko",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Iguana",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Komodo dragon",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Basilisk",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Gila monster",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Anole",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bearded dragon",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Monitor lizard",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Skink",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Agama",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Blue-tongued skink",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Chuckwalla",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Fence lizard",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Horned lizard",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Jesus lizard",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Marine iguana",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Panther chameleon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tegu",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Veiled chameleon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Water dragon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Alligator lizard",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Collared lizard",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Frilled lizard",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "House gecko",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Thorny devil",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Water monitor",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tokay gecko",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Whiptail",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Armadillo lizard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Caiman lizard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Day gecko",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Glass lizard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jackson's chameleon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lace monitor",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mexican beaded lizard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nile monitor",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Perentie",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sand lizard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Uromastyx",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Wall lizard",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Draco",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Satanic leaf-tailed gecko",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Slow worm",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sungazer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pygmy blue-tongue",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a type of pastry or doughnut",
+      "answers": [
+        {
+          "answer": "Croissant",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Danish",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Glazed doughnut",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Jelly doughnut",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Doughnut",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Beignet",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Cronut",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Apple pie",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Baklava",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cake doughnut",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Eclair",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Fritter",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Hot cross bun",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Old fashioned",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Puff pastry",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Scone",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tart",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bear claw",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cannoli",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Empanada",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Sticky bun",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Turnover",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Boston cream",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Churro",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Strudel",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Brioche",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cinnamon roll",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cream puff",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cruller",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Beavertail",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Galette",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Long john",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Macaron",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Napoleon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pain au chocolat",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Shortcrust pastry",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Zeppole",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Berliner",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Macaroon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Palmier",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Maple bar",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pastel de nata",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Phyllo pastry",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Profiterole",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bombolone",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Canele",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Financier",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gulab jamun",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kolache",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Loukoumades",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Malasada",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Paczki",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Rugelach",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sfogliatella",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Croquembouche",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kouign-amann",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sopapilla",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sufganiyah",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Spudnut",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a Grammy Album of the Year winner",
+      "answers": [
+        {
+          "answer": "Thriller",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "21",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "The Suburbs",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Can't Slow Down",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "DeBÍ TiRAR MáS FOToS",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Faith",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Harry's House",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Midnights",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "No Jacket Required",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Random Access Memories",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Saturday Night Fever",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tapestry",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Unplugged",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "When We All Fall Asleep, Where Do We Go?",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "1989",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cowboy Carter",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Folklore",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Rumours",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "The Joshua Tree",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "25",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "The Miseducation of Lauryn Hill",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bridge over Troubled Water",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Come Away with Me",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Double Fantasy",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Falling into You",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Golden Hour",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "How to Dismantle an Atomic Bomb",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Innervisions",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Jagged Little Pill",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "24K Magic",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "MTV Unplugged",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "52nd Street",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "O Brother, Where Art Thou?",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Raising Sand",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sgt. Pepper's Lonely Hearts Club Band",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Taking the Long Way",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Unforgettable... with Love",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "We Are",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Fearless",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Graceland",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Songs in the Key of Life",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Barbra Streisand Album",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Speakerboxxx/The Love Below",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Bodyguard",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Supernatural",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Time Out of Mind",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Toto IV",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "A Man and His Music",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Babel",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Come Dance with Me!",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Fulfillingness' First Finale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Genius Loves Company",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Judy at Carnegie Hall",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Morning Phase",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nick of Time",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "River: The Joni Letters",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "September of My Years",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Button-Down Mind of Bob Newhart",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Back on the Block",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Getz/Gilberto",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Still Crazy After All These Years",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Concert for Bangladesh",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Blood, Sweat & Tears",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The First Family",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "By the Time I Get to Phoenix",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "The Music from Peter Gunn",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Two Against Nature",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Christopher Cross",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a human hormone",
+      "answers": [
+        {
+          "answer": "Adrenaline",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Estrogen",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Insulin",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Testosterone",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Dopamine",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Oxytocin",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Cortisol",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Endorphins",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Growth hormone",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Melatonin",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Progesterone",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Serotonin",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Aldosterone",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ghrelin",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Histamine",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Leptin",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Norepinephrine",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Prolactin",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Thyroxine",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Vasopressin",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "GLP-1",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Human chorionic gonadotropin",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Glucagon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Adrenocorticotropic hormone",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Calcitonin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "DHEA",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Erythropoietin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Follicle-stimulating hormone",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gastrin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Luteinizing hormone",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Parathyroid hormone",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Renin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Secretin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Thyroid-stimulating hormone",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Angiotensin II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cholecystokinin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "DHT",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Somatostatin",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Triiodothyronine",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Relaxin",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a sport or discipline ever contested or demonstrated at the Winter Olympics",
+      "answers": [
+        {
+          "answer": "Figure skating",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Ice hockey",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Skiing",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Snowboarding",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Biathlon",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Curling",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Skeleton",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Bobsled",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cross-country skiing",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Downhill",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Freestyle skiing",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Luge",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Ski jumping",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Speed skating",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Big air",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Halfpipe",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ice dance",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mass start",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nordic combined",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pair skating",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ski cross",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Team pursuit",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Parallel giant slalom",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Ski mountaineering",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Slalom",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Slopestyle",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Snowboard cross",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Super-G",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bandy",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Combined",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Military patrol",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ski ballet",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Team figure skating",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Winter pentathlon",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sled dog racing",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Speed skiing",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ice stock sport",
+          "tier": "krillion",
+          "score": 100
+        },
+        {
+          "answer": "Skijoring",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a 2026 movie that had grossed at least $200 million worldwide by August 8",
+      "answers": [
+        {
+          "answer": "Michael",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Spider-Man: Brand New Day",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "The Odyssey",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "The Super Mario Galaxy Movie",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Toy Story 5",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Pegasus 3",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Hoppers",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Minions & Monsters",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Project Hail Mary",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Star Wars: The Mandalorian and Grogu",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "The Devil Wears Prada 2",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Wuthering Heights",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Moana",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Backrooms",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Disclosure Day",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "GOAT",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Obsession",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Scary Movie",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Scream 7",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Blades of the Guardians",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dhurandhar: The Revenge",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kung Fu Soccer",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dear You",
+          "tier": "krillion",
+          "score": 100
+        },
+        {
+          "answer": "Scare Out",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    }
+  ]
+}

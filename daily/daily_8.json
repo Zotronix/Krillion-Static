@@ -1,0 +1,1858 @@
+{
+  "gameId": 8,
+  "sourceUrl": "https://krilliongame.com/krillion-answers/2026-07-23/",
+  "prompts": [
+    {
+      "id": "p1",
+      "text": "Name a country with a Mediterranean coastline",
+      "answers": [
+        {
+          "answer": "France",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Greece",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Italy",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Spain",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Monaco",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Croatia",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Egypt",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Israel",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Morocco",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Turkey",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Albania",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cyprus",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Lebanon",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Malta",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tunisia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Algeria",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Libya",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Montenegro",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Slovenia",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Syria",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "text": "Name a whale species",
+      "answers": [
+        {
+          "answer": "Blue whale",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Humpback whale",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Orca",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Sperm whale",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Narwhal",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Beluga",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Fin whale",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Gray whale",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Minke whale",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Pilot whale",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Right whale",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bowhead whale",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Antarctic minke whale",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bryde's whale",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cuvier's beaked whale",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Northern bottlenose whale",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pygmy sperm whale",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sei whale",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Andrews' beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Baird's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dwarf sperm whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "False killer whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gervais' beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hector's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Longman's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Melon-headed whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Omura's whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pygmy killer whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shepherd's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "True's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Arnoux's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Blainville's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gray's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pygmy right whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Southern bottlenose whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sowerby's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Stejneger's beaked whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Strap-toothed whale",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Spade-toothed whale",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "text": "Name a tropical fruit",
+      "answers": [
+        {
+          "answer": "Banana",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Coconut",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Mango",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Pineapple",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Durian",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Avocado",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Dragon fruit",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Guava",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Jackfruit",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Kiwi",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Lychee",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Papaya",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Star fruit",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Passion fruit",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Plantain",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Acai",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Breadfruit",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cherimoya",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Date",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Longan",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mangosteen",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pomelo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Rambutan",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sapodilla",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Tamarind",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Soursop",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Sugar apple",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Acerola",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bilimbi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cacao",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Feijoa",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jabuticaba",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kiwano",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Langsat",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mamey sapote",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Noni",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Salak",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tamarillo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ugli fruit",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Wax apple",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ackee",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Black sapote",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Calamansi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Loquat",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mamoncillo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Santol",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Camu camu",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lulo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Marang",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Star apple",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Canistel",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Surinam cherry",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Chempedak",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cupuacu",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Miracle fruit",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "text": "Name a Scooby-Doo character",
+      "answers": [
+        {
+          "answer": "Daphne",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Fred",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Scooby-Doo",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Velma",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Shaggy",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Scrappy-Doo",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Red Herring",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Scooby-Dum",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "The Hex Girls",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Angel Dynamite",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bogel",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Deputy Dusty",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Flim-Flam",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Googie",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hot Dog Water",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mr. E",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Professor Pericles",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Ricky Owens",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Scooby-Dee",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Vincent Van Ghoul",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Weerd",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Yabba-Doo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Scooby-Doo's mother",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sheriff Bronson Stone",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Black Knight Ghost",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "text": "Name a type of cloud",
+      "answers": [
+        {
+          "answer": "Cirrus",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Stratus",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Cumulus",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Lenticular",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Mammatus",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Altocumulus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cirrocumulus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Nimbostratus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Stratocumulus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Altostratus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cirrostratus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cumulonimbus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Anvil cloud",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Contrail",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Fog",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nimbus",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pileus",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Roll cloud",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Shelf cloud",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Virga",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cumulus congestus",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Fractus",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Funnel cloud",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Asperitas",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Banner cloud",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Castellanus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kelvin-Helmholtz",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Nacreous",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pyrocumulus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Undulatus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Wall cloud",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cavum",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Noctilucent",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cirrus uncinus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Morning Glory cloud",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "text": "Name a style of dance",
+      "answers": [
+        {
+          "answer": "Ballet",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Hip hop",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Salsa",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Tap",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Lindy hop",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Voguing",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Ballroom",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cha-cha",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Disco",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Flamenco",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Jazz",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Line dancing",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Rumba",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Samba",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tango",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Waltz",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Belly dance",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Contemporary",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Foxtrot",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Square dance",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Breakdancing",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Swing",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bachata",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Can-can",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Hula",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Irish step dance",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Jitterbug",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Krumping",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Locking",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Mambo",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Paso doble",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Quickstep",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Reggaeton",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Twerking",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Zumba",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bhangra",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Charleston",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Hustle",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Jive",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Merengue",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Pole dance",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Two-step",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bollywood",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Clogging",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Polka",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Cumbia",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Popping",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Bharatanatyam",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Contra dance",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dabke",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Fandango",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Garba",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Haka",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kathak",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lambada",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Manipuri",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Odissi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Polonaise",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Robot",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sardana",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tinikling",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Waacking",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Zouk",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Bolero",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Csardas",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Dancehall",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Forro",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Highland dance",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kathakali",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mazurka",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shag",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tutting",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "West Coast Swing",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Boogaloo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Cueca",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hopak",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kizomba",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mexican hat dance",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Shuffle",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Boogie-woogie",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Hora",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kolo",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Milonga",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sirtaki",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Burlesque",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "House dance",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Kuchipudi",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Mohiniyattam",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Sufi whirling",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Butoh",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Morris dance",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tarantella",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "text": "Name a Roman emperor",
+      "answers": [
+        {
+          "answer": "Augustus",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Caligula",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Nero",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Constantine the Great",
+          "tier": "plankton",
+          "score": 10
+        },
+        {
+          "answer": "Commodus",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Elagabalus",
+          "tier": "too clever",
+          "score": 15
+        },
+        {
+          "answer": "Claudius",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Diocletian",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Hadrian",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Marcus Aurelius",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Tiberius",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Vespasian",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Titus",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Trajan",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Antoninus Pius",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Caracalla",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Domitian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Julian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Maximian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Nerva",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Philip the Arab",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Romulus Augustulus",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Septimius Severus",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Theodosius I",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Valens",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Aurelian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Justinian I",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Maximinus Thrax",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Valerian",
+          "tier": "rare",
+          "score": 60
+        },
+        {
+          "answer": "Aemilianus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Balbinus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Carausius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Decius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Florianus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Galba",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Heraclius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Irene",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Jovian",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Leo I",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Macrinus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Numerian",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Olybrius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pertinax",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Quintillus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Severus Alexander",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Tacitus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Valentinian I",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Zeno",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Alexios I Komnenos",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Basil II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Carinus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Didius Julianus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Galerius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Honorius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Julius Nepos",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Licinius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Majorian",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Otho",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Petronius Maximus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Severus II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Theodosius II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Valentinian II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Anastasius I",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Carus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Domitian II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gallienus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Justin I",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Lucius Verus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Marcian",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Phocas",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Trebonianus Gallus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Valentinian III",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Anthemius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Claudius Gothicus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Geta",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Justinian II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Maurice",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Probus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Vitellius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Arcadius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Constans",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Glycerius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Maxentius",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Pupienus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Avitus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Constantine II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gordian I",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Maximinus Daza",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Constantine XI",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gordian II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Constantius Chlorus",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gordian III",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Constantius II",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Gratian",
+          "tier": "deepcut",
+          "score": 85
+        },
+        {
+          "answer": "Silbannacus",
+          "tier": "krillion",
+          "score": 100
+        }
+      ]
+    }
+  ]
+}
