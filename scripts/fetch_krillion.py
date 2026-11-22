@@ -213,7 +213,7 @@ if __name__ == "__main__":
         json.dump(game_data, f, separators=(",", ":"), ensure_ascii=False)
 
     os.makedirs("daily", exist_ok=True)
-    daily_path = f"daily/game_{game_data['dayNumber']}.json"
+    daily_path = f"daily/daily_{game_data['dayNumber']}.json"
     with open(daily_path, "w", encoding="utf-8") as f:
         json.dump(game_data, f, separators=(",", ":"), ensure_ascii=False)
 
